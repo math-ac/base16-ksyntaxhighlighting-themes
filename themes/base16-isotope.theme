@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Jan T. Sott"],
+		"name": "Base16 Isotope",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#000000",
+		"BracketMatching": "#808080",
+		"CodeFolding": "#606060",
+		"CurrentLine": "#404040",
+		"CurrentLineNumber": "#c0c0c0",
+		"IconBorder": "#404040",
+		"IndentationLine": "#808080",
+		"LineNumbers": "#808080",
+		"MarkBookmark": "#0066ff",
+		"MarkBreakpointActive": "#ff0000",
+		"MarkBreakpointDisabled": "#cc00ff",
+		"MarkBreakpointReached": "#ff0099",
+		"MarkError": "#ff0000",
+		"MarkExecution": "#00ffff",
+		"MarkWarning": "#ff9900",
+		"ModifiedLines": "#ff9900",
+		"ReplaceHighlight": "#33ff00",
+		"SavedLines": "#33ff00",
+		"SearchHighlight": "#ff0099",
+		"Separator": "#808080",
+		"SpellChecking": "#ff0000",
+		"TabMarker": "#808080",
+		"TemplateBackground": "#404040",
+		"TemplateFocusedPlaceholder": "#33ff00",
+		"TemplatePlaceholder": "#33ff00",
+		"TemplateReadOnlyPlaceholder": "#ff0000",
+		"TextSelection": "#606060",
+		"WordWrapMarker": "#808080"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#ff0000",
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#d0d0d0",
+			"text-color": "#c0c0c0"
+		},
+		"Attribute": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#0066ff"
+		},
+		"BaseN": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#ff9900"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#0066ff",
+			"text-color": "#0066ff"
+		},
+		"Char": {
+			"selected-text-color": "#e0e0e0",
+			"text-color": "#00ffff"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#808080"
+		},
+		"CommentVar": {
+			"selected-text-color": "#00ffff",
+			"text-color": "#00ffff"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#ff9900",
+			"text-color": "#ff9900"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#ff9900"
+		},
+		"DataType": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#ff0099"
+		},
+		"DecVal": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#ff9900"
+		},
+		"Documentation": {
+			"selected-text-color": "#ff0000",
+			"text-color": "#ff0000"
+		},
+		"Error": {
+			"selected-text-color": "#ff0000",
+			"text-color": "#ff0000",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#0066ff",
+			"text-color": "#0066ff"
+		},
+		"Float": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#ff9900"
+		},
+		"Function": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#0066ff"
+		},
+		"Import": {
+			"selected-text-color": "#3300ff",
+			"text-color": "#3300ff"
+		},
+		"Information": {
+			"selected-text-color": "#00ffff",
+			"text-color": "#00ffff"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#cc00ff"
+		},
+		"Normal": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#d0d0d0"
+		},
+		"Operator": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#d0d0d0"
+		},
+		"Others": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#ff0099"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#33ff00",
+			"text-color": "#33ff00"
+		},
+		"RegionMarker": {
+			"background-color": "#c0c0c0",
+			"selected-text-color": "#ffffff",
+			"text-color": "#ffffff"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#e0e0e0",
+			"text-color": "#00ffff"
+		},
+		"SpecialString": {
+			"selected-text-color": "#3300ff",
+			"text-color": "#3300ff"
+		},
+		"String": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#33ff00"
+		},
+		"Variable": {
+			"selected-text-color": "#ff0000",
+			"text-color": "#ff0000"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#33ff00",
+			"text-color": "#33ff00"
+		},
+		"Warning": {
+			"selected-text-color": "#ff0099",
+			"text-color": "#ff0099"
+		}
+	}
+}

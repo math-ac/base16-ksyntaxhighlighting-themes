@@ -1,0 +1,176 @@
+{
+    "custom-styles": {
+    },
+    "editor-colors": {
+        "BackgroundColor": "#1c1c1c",
+        "BracketMatching": "#d7af5f",
+        "CodeFolding": "#5faf00",
+        "CurrentLine": "#af005f",
+        "CurrentLineNumber": "#5fafd7",
+        "IconBorder": "#af005f",
+        "IndentationLine": "#d7af5f",
+        "LineNumbers": "#d7af5f",
+        "MarkBookmark": "#ff5faf",
+        "MarkBreakpointActive": "#585858",
+        "MarkBreakpointDisabled": "#00afaf",
+        "MarkBreakpointReached": "#afd700",
+        "MarkError": "#585858",
+        "MarkExecution": "#ffaf00",
+        "MarkWarning": "#5faf5f",
+        "ModifiedLines": "#5faf5f",
+        "ReplaceHighlight": "#af87d7",
+        "SavedLines": "#af87d7",
+        "SearchHighlight": "#afd700",
+        "Separator": "#d7af5f",
+        "SpellChecking": "#585858",
+        "TabMarker": "#d7af5f",
+        "TemplateBackground": "#af005f",
+        "TemplateFocusedPlaceholder": "#af87d7",
+        "TemplatePlaceholder": "#af87d7",
+        "TemplateReadOnlyPlaceholder": "#585858",
+        "TextSelection": "#5faf00",
+        "WordWrapMarker": "#d7af5f"
+    },
+    "metadata": {
+        "copyright": [
+            "Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)"
+        ],
+        "name": "Base16 PaperColor Dark",
+        "revision": 1
+    },
+    "text-styles": {
+        "Alert": {
+            "background-color": "#585858",
+            "bold": true,
+            "selected-text-color": "#d0d0d0",
+            "text-color": "#000000"
+        },
+        "Annotation": {
+            "selected-text-color": "#808080",
+            "text-color": "#5fafd7"
+        },
+        "Attribute": {
+            "selected-text-color": "#d0d0d0",
+            "text-color": "#ff5faf"
+        },
+        "BaseN": {
+            "selected-text-color": "#d0d0d0",
+            "text-color": "#5faf5f"
+        },
+        "BuiltIn": {
+            "selected-text-color": "#ff5faf",
+            "text-color": "#ff5faf"
+        },
+        "Char": {
+            "selected-text-color": "#d7875f",
+            "text-color": "#ffaf00"
+        },
+        "Comment": {
+            "italic": true,
+            "selected-text-color": "#d0d0d0",
+            "text-color": "#d7af5f"
+        },
+        "CommentVar": {
+            "selected-text-color": "#ffaf00",
+            "text-color": "#ffaf00"
+        },
+        "Constant": {
+            "bold": true,
+            "selected-text-color": "#5faf5f",
+            "text-color": "#5faf5f"
+        },
+        "ControlFlow": {
+            "bold": true,
+            "selected-text-color": "#d0d0d0",
+            "text-color": "#5faf5f"
+        },
+        "DataType": {
+            "selected-text-color": "#d0d0d0",
+            "text-color": "#afd700"
+        },
+        "DecVal": {
+            "selected-text-color": "#d0d0d0",
+            "text-color": "#5faf5f"
+        },
+        "Documentation": {
+            "selected-text-color": "#585858",
+            "text-color": "#585858"
+        },
+        "Error": {
+            "selected-text-color": "#585858",
+            "text-color": "#585858",
+            "underline": true
+        },
+        "Extension": {
+            "bold": true,
+            "selected-text-color": "#ff5faf",
+            "text-color": "#ff5faf"
+        },
+        "Float": {
+            "selected-text-color": "#d0d0d0",
+            "text-color": "#5faf5f"
+        },
+        "Function": {
+            "selected-text-color": "#d0d0d0",
+            "text-color": "#ff5faf"
+        },
+        "Import": {
+            "selected-text-color": "#5f8787",
+            "text-color": "#5f8787"
+        },
+        "Information": {
+            "selected-text-color": "#ffaf00",
+            "text-color": "#ffaf00"
+        },
+        "Keyword": {
+            "bold": true,
+            "selected-text-color": "#d0d0d0",
+            "text-color": "#00afaf"
+        },
+        "Normal": {
+            "selected-text-color": "#d0d0d0",
+            "text-color": "#808080"
+        },
+        "Operator": {
+            "selected-text-color": "#d0d0d0",
+            "text-color": "#808080"
+        },
+        "Others": {
+            "selected-text-color": "#d0d0d0",
+            "text-color": "#afd700"
+        },
+        "Preprocessor": {
+            "selected-text-color": "#af87d7",
+            "text-color": "#af87d7"
+        },
+        "RegionMarker": {
+            "background-color": "#5fafd7",
+            "selected-text-color": "#d0d0d0",
+            "text-color": "#d0d0d0"
+        },
+        "SpecialChar": {
+            "selected-text-color": "#d7875f",
+            "text-color": "#ffaf00"
+        },
+        "SpecialString": {
+            "selected-text-color": "#5f8787",
+            "text-color": "#5f8787"
+        },
+        "String": {
+            "selected-text-color": "#d0d0d0",
+            "text-color": "#af87d7"
+        },
+        "Variable": {
+            "selected-text-color": "#585858",
+            "text-color": "#585858"
+        },
+        "VerbatimString": {
+            "selected-text-color": "#af87d7",
+            "text-color": "#af87d7"
+        },
+        "Warning": {
+            "selected-text-color": "#afd700",
+            "text-color": "#afd700"
+        }
+    }
+}

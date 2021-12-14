@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)"],
+		"name": "Base16 Gruvbox dark, soft",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#32302f",
+		"BracketMatching": "#665c54",
+		"CodeFolding": "#504945",
+		"CurrentLine": "#3c3836",
+		"CurrentLineNumber": "#bdae93",
+		"IconBorder": "#3c3836",
+		"IndentationLine": "#665c54",
+		"LineNumbers": "#665c54",
+		"MarkBookmark": "#83a598",
+		"MarkBreakpointActive": "#fb4934",
+		"MarkBreakpointDisabled": "#d3869b",
+		"MarkBreakpointReached": "#fabd2f",
+		"MarkError": "#fb4934",
+		"MarkExecution": "#8ec07c",
+		"MarkWarning": "#fe8019",
+		"ModifiedLines": "#fe8019",
+		"ReplaceHighlight": "#b8bb26",
+		"SavedLines": "#b8bb26",
+		"SearchHighlight": "#fabd2f",
+		"Separator": "#665c54",
+		"SpellChecking": "#fb4934",
+		"TabMarker": "#665c54",
+		"TemplateBackground": "#3c3836",
+		"TemplateFocusedPlaceholder": "#b8bb26",
+		"TemplatePlaceholder": "#b8bb26",
+		"TemplateReadOnlyPlaceholder": "#fb4934",
+		"TextSelection": "#504945",
+		"WordWrapMarker": "#665c54"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#fb4934",
+			"bold": true,
+			"selected-text-color": "#fbf1c7",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#d5c4a1",
+			"text-color": "#bdae93"
+		},
+		"Attribute": {
+			"selected-text-color": "#fbf1c7",
+			"text-color": "#83a598"
+		},
+		"BaseN": {
+			"selected-text-color": "#fbf1c7",
+			"text-color": "#fe8019"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#83a598",
+			"text-color": "#83a598"
+		},
+		"Char": {
+			"selected-text-color": "#ebdbb2",
+			"text-color": "#8ec07c"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#fbf1c7",
+			"text-color": "#665c54"
+		},
+		"CommentVar": {
+			"selected-text-color": "#8ec07c",
+			"text-color": "#8ec07c"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#fe8019",
+			"text-color": "#fe8019"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#fbf1c7",
+			"text-color": "#fe8019"
+		},
+		"DataType": {
+			"selected-text-color": "#fbf1c7",
+			"text-color": "#fabd2f"
+		},
+		"DecVal": {
+			"selected-text-color": "#fbf1c7",
+			"text-color": "#fe8019"
+		},
+		"Documentation": {
+			"selected-text-color": "#fb4934",
+			"text-color": "#fb4934"
+		},
+		"Error": {
+			"selected-text-color": "#fb4934",
+			"text-color": "#fb4934",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#83a598",
+			"text-color": "#83a598"
+		},
+		"Float": {
+			"selected-text-color": "#fbf1c7",
+			"text-color": "#fe8019"
+		},
+		"Function": {
+			"selected-text-color": "#fbf1c7",
+			"text-color": "#83a598"
+		},
+		"Import": {
+			"selected-text-color": "#d65d0e",
+			"text-color": "#d65d0e"
+		},
+		"Information": {
+			"selected-text-color": "#8ec07c",
+			"text-color": "#8ec07c"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#fbf1c7",
+			"text-color": "#d3869b"
+		},
+		"Normal": {
+			"selected-text-color": "#fbf1c7",
+			"text-color": "#d5c4a1"
+		},
+		"Operator": {
+			"selected-text-color": "#fbf1c7",
+			"text-color": "#d5c4a1"
+		},
+		"Others": {
+			"selected-text-color": "#fbf1c7",
+			"text-color": "#fabd2f"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#b8bb26",
+			"text-color": "#b8bb26"
+		},
+		"RegionMarker": {
+			"background-color": "#bdae93",
+			"selected-text-color": "#fbf1c7",
+			"text-color": "#fbf1c7"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#ebdbb2",
+			"text-color": "#8ec07c"
+		},
+		"SpecialString": {
+			"selected-text-color": "#d65d0e",
+			"text-color": "#d65d0e"
+		},
+		"String": {
+			"selected-text-color": "#fbf1c7",
+			"text-color": "#b8bb26"
+		},
+		"Variable": {
+			"selected-text-color": "#fb4934",
+			"text-color": "#fb4934"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#b8bb26",
+			"text-color": "#b8bb26"
+		},
+		"Warning": {
+			"selected-text-color": "#fabd2f",
+			"text-color": "#fabd2f"
+		}
+	}
+}

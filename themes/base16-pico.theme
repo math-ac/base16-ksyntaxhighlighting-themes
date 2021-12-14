@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["PICO-8 (http://www.lexaloffle.com/pico-8.php)"],
+		"name": "Base16 Pico",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#000000",
+		"BracketMatching": "#008751",
+		"CodeFolding": "#7e2553",
+		"CurrentLine": "#1d2b53",
+		"CurrentLineNumber": "#ab5236",
+		"IconBorder": "#1d2b53",
+		"IndentationLine": "#008751",
+		"LineNumbers": "#008751",
+		"MarkBookmark": "#83769c",
+		"MarkBreakpointActive": "#ff004d",
+		"MarkBreakpointDisabled": "#ff77a8",
+		"MarkBreakpointReached": "#fff024",
+		"MarkError": "#ff004d",
+		"MarkExecution": "#29adff",
+		"MarkWarning": "#ffa300",
+		"ModifiedLines": "#ffa300",
+		"ReplaceHighlight": "#00e756",
+		"SavedLines": "#00e756",
+		"SearchHighlight": "#fff024",
+		"Separator": "#008751",
+		"SpellChecking": "#ff004d",
+		"TabMarker": "#008751",
+		"TemplateBackground": "#1d2b53",
+		"TemplateFocusedPlaceholder": "#00e756",
+		"TemplatePlaceholder": "#00e756",
+		"TemplateReadOnlyPlaceholder": "#ff004d",
+		"TextSelection": "#7e2553",
+		"WordWrapMarker": "#008751"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#ff004d",
+			"bold": true,
+			"selected-text-color": "#fff1e8",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#5f574f",
+			"text-color": "#ab5236"
+		},
+		"Attribute": {
+			"selected-text-color": "#fff1e8",
+			"text-color": "#83769c"
+		},
+		"BaseN": {
+			"selected-text-color": "#fff1e8",
+			"text-color": "#ffa300"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#83769c",
+			"text-color": "#83769c"
+		},
+		"Char": {
+			"selected-text-color": "#c2c3c7",
+			"text-color": "#29adff"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#fff1e8",
+			"text-color": "#008751"
+		},
+		"CommentVar": {
+			"selected-text-color": "#29adff",
+			"text-color": "#29adff"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#ffa300",
+			"text-color": "#ffa300"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#fff1e8",
+			"text-color": "#ffa300"
+		},
+		"DataType": {
+			"selected-text-color": "#fff1e8",
+			"text-color": "#fff024"
+		},
+		"DecVal": {
+			"selected-text-color": "#fff1e8",
+			"text-color": "#ffa300"
+		},
+		"Documentation": {
+			"selected-text-color": "#ff004d",
+			"text-color": "#ff004d"
+		},
+		"Error": {
+			"selected-text-color": "#ff004d",
+			"text-color": "#ff004d",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#83769c",
+			"text-color": "#83769c"
+		},
+		"Float": {
+			"selected-text-color": "#fff1e8",
+			"text-color": "#ffa300"
+		},
+		"Function": {
+			"selected-text-color": "#fff1e8",
+			"text-color": "#83769c"
+		},
+		"Import": {
+			"selected-text-color": "#ffccaa",
+			"text-color": "#ffccaa"
+		},
+		"Information": {
+			"selected-text-color": "#29adff",
+			"text-color": "#29adff"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#fff1e8",
+			"text-color": "#ff77a8"
+		},
+		"Normal": {
+			"selected-text-color": "#fff1e8",
+			"text-color": "#5f574f"
+		},
+		"Operator": {
+			"selected-text-color": "#fff1e8",
+			"text-color": "#5f574f"
+		},
+		"Others": {
+			"selected-text-color": "#fff1e8",
+			"text-color": "#fff024"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#00e756",
+			"text-color": "#00e756"
+		},
+		"RegionMarker": {
+			"background-color": "#ab5236",
+			"selected-text-color": "#fff1e8",
+			"text-color": "#fff1e8"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#c2c3c7",
+			"text-color": "#29adff"
+		},
+		"SpecialString": {
+			"selected-text-color": "#ffccaa",
+			"text-color": "#ffccaa"
+		},
+		"String": {
+			"selected-text-color": "#fff1e8",
+			"text-color": "#00e756"
+		},
+		"Variable": {
+			"selected-text-color": "#ff004d",
+			"text-color": "#ff004d"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#00e756",
+			"text-color": "#00e756"
+		},
+		"Warning": {
+			"selected-text-color": "#fff024",
+			"text-color": "#fff024"
+		}
+	}
+}

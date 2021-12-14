@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Hennig Hasemann (http://leetless.de/vim.html)"],
+		"name": "Base16 PhD",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#061229",
+		"BracketMatching": "#717885",
+		"CodeFolding": "#4d5666",
+		"CurrentLine": "#2a3448",
+		"CurrentLineNumber": "#9a99a3",
+		"IconBorder": "#2a3448",
+		"IndentationLine": "#717885",
+		"LineNumbers": "#717885",
+		"MarkBookmark": "#5299bf",
+		"MarkBreakpointActive": "#d07346",
+		"MarkBreakpointDisabled": "#9989cc",
+		"MarkBreakpointReached": "#fbd461",
+		"MarkError": "#d07346",
+		"MarkExecution": "#72b9bf",
+		"MarkWarning": "#f0a000",
+		"ModifiedLines": "#f0a000",
+		"ReplaceHighlight": "#99bf52",
+		"SavedLines": "#99bf52",
+		"SearchHighlight": "#fbd461",
+		"Separator": "#717885",
+		"SpellChecking": "#d07346",
+		"TabMarker": "#717885",
+		"TemplateBackground": "#2a3448",
+		"TemplateFocusedPlaceholder": "#99bf52",
+		"TemplatePlaceholder": "#99bf52",
+		"TemplateReadOnlyPlaceholder": "#d07346",
+		"TextSelection": "#4d5666",
+		"WordWrapMarker": "#717885"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#d07346",
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#b8bbc2",
+			"text-color": "#9a99a3"
+		},
+		"Attribute": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#5299bf"
+		},
+		"BaseN": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#f0a000"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#5299bf",
+			"text-color": "#5299bf"
+		},
+		"Char": {
+			"selected-text-color": "#dbdde0",
+			"text-color": "#72b9bf"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#717885"
+		},
+		"CommentVar": {
+			"selected-text-color": "#72b9bf",
+			"text-color": "#72b9bf"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#f0a000",
+			"text-color": "#f0a000"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#f0a000"
+		},
+		"DataType": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#fbd461"
+		},
+		"DecVal": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#f0a000"
+		},
+		"Documentation": {
+			"selected-text-color": "#d07346",
+			"text-color": "#d07346"
+		},
+		"Error": {
+			"selected-text-color": "#d07346",
+			"text-color": "#d07346",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#5299bf",
+			"text-color": "#5299bf"
+		},
+		"Float": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#f0a000"
+		},
+		"Function": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#5299bf"
+		},
+		"Import": {
+			"selected-text-color": "#b08060",
+			"text-color": "#b08060"
+		},
+		"Information": {
+			"selected-text-color": "#72b9bf",
+			"text-color": "#72b9bf"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#9989cc"
+		},
+		"Normal": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#b8bbc2"
+		},
+		"Operator": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#b8bbc2"
+		},
+		"Others": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#fbd461"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#99bf52",
+			"text-color": "#99bf52"
+		},
+		"RegionMarker": {
+			"background-color": "#9a99a3",
+			"selected-text-color": "#ffffff",
+			"text-color": "#ffffff"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#dbdde0",
+			"text-color": "#72b9bf"
+		},
+		"SpecialString": {
+			"selected-text-color": "#b08060",
+			"text-color": "#b08060"
+		},
+		"String": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#99bf52"
+		},
+		"Variable": {
+			"selected-text-color": "#d07346",
+			"text-color": "#d07346"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#99bf52",
+			"text-color": "#99bf52"
+		},
+		"Warning": {
+			"selected-text-color": "#fbd461",
+			"text-color": "#fbd461"
+		}
+	}
+}

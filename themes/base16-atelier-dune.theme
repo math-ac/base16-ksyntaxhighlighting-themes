@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Bram de Haan (http://atelierbramdehaan.nl)"],
+		"name": "Base16 Atelier Dune",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#20201d",
+		"BracketMatching": "#7d7a68",
+		"CodeFolding": "#6e6b5e",
+		"CurrentLine": "#292824",
+		"CurrentLineNumber": "#999580",
+		"IconBorder": "#292824",
+		"IndentationLine": "#7d7a68",
+		"LineNumbers": "#7d7a68",
+		"MarkBookmark": "#6684e1",
+		"MarkBreakpointActive": "#d73737",
+		"MarkBreakpointDisabled": "#b854d4",
+		"MarkBreakpointReached": "#ae9513",
+		"MarkError": "#d73737",
+		"MarkExecution": "#1fad83",
+		"MarkWarning": "#b65611",
+		"ModifiedLines": "#b65611",
+		"ReplaceHighlight": "#60ac39",
+		"SavedLines": "#60ac39",
+		"SearchHighlight": "#ae9513",
+		"Separator": "#7d7a68",
+		"SpellChecking": "#d73737",
+		"TabMarker": "#7d7a68",
+		"TemplateBackground": "#292824",
+		"TemplateFocusedPlaceholder": "#60ac39",
+		"TemplatePlaceholder": "#60ac39",
+		"TemplateReadOnlyPlaceholder": "#d73737",
+		"TextSelection": "#6e6b5e",
+		"WordWrapMarker": "#7d7a68"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#d73737",
+			"bold": true,
+			"selected-text-color": "#fefbec",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#a6a28c",
+			"text-color": "#999580"
+		},
+		"Attribute": {
+			"selected-text-color": "#fefbec",
+			"text-color": "#6684e1"
+		},
+		"BaseN": {
+			"selected-text-color": "#fefbec",
+			"text-color": "#b65611"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#6684e1",
+			"text-color": "#6684e1"
+		},
+		"Char": {
+			"selected-text-color": "#e8e4cf",
+			"text-color": "#1fad83"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#fefbec",
+			"text-color": "#7d7a68"
+		},
+		"CommentVar": {
+			"selected-text-color": "#1fad83",
+			"text-color": "#1fad83"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#b65611",
+			"text-color": "#b65611"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#fefbec",
+			"text-color": "#b65611"
+		},
+		"DataType": {
+			"selected-text-color": "#fefbec",
+			"text-color": "#ae9513"
+		},
+		"DecVal": {
+			"selected-text-color": "#fefbec",
+			"text-color": "#b65611"
+		},
+		"Documentation": {
+			"selected-text-color": "#d73737",
+			"text-color": "#d73737"
+		},
+		"Error": {
+			"selected-text-color": "#d73737",
+			"text-color": "#d73737",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#6684e1",
+			"text-color": "#6684e1"
+		},
+		"Float": {
+			"selected-text-color": "#fefbec",
+			"text-color": "#b65611"
+		},
+		"Function": {
+			"selected-text-color": "#fefbec",
+			"text-color": "#6684e1"
+		},
+		"Import": {
+			"selected-text-color": "#d43552",
+			"text-color": "#d43552"
+		},
+		"Information": {
+			"selected-text-color": "#1fad83",
+			"text-color": "#1fad83"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#fefbec",
+			"text-color": "#b854d4"
+		},
+		"Normal": {
+			"selected-text-color": "#fefbec",
+			"text-color": "#a6a28c"
+		},
+		"Operator": {
+			"selected-text-color": "#fefbec",
+			"text-color": "#a6a28c"
+		},
+		"Others": {
+			"selected-text-color": "#fefbec",
+			"text-color": "#ae9513"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#60ac39",
+			"text-color": "#60ac39"
+		},
+		"RegionMarker": {
+			"background-color": "#999580",
+			"selected-text-color": "#fefbec",
+			"text-color": "#fefbec"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#e8e4cf",
+			"text-color": "#1fad83"
+		},
+		"SpecialString": {
+			"selected-text-color": "#d43552",
+			"text-color": "#d43552"
+		},
+		"String": {
+			"selected-text-color": "#fefbec",
+			"text-color": "#60ac39"
+		},
+		"Variable": {
+			"selected-text-color": "#d73737",
+			"text-color": "#d73737"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#60ac39",
+			"text-color": "#60ac39"
+		},
+		"Warning": {
+			"selected-text-color": "#ae9513",
+			"text-color": "#ae9513"
+		}
+	}
+}

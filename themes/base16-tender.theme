@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Jacobo Tabernero (https://github/com/jacoborus/tender.vim)"],
+		"name": "Base16 tender",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#282828",
+		"BracketMatching": "#4c4c4c",
+		"CodeFolding": "#484848",
+		"CurrentLine": "#383838",
+		"CurrentLineNumber": "#b8b8b8",
+		"IconBorder": "#383838",
+		"IndentationLine": "#4c4c4c",
+		"LineNumbers": "#4c4c4c",
+		"MarkBookmark": "#b3deef",
+		"MarkBreakpointActive": "#f43753",
+		"MarkBreakpointDisabled": "#d3b987",
+		"MarkBreakpointReached": "#ffc24b",
+		"MarkError": "#f43753",
+		"MarkExecution": "#73cef4",
+		"MarkWarning": "#dc9656",
+		"ModifiedLines": "#dc9656",
+		"ReplaceHighlight": "#c9d05c",
+		"SavedLines": "#c9d05c",
+		"SearchHighlight": "#ffc24b",
+		"Separator": "#4c4c4c",
+		"SpellChecking": "#f43753",
+		"TabMarker": "#4c4c4c",
+		"TemplateBackground": "#383838",
+		"TemplateFocusedPlaceholder": "#c9d05c",
+		"TemplatePlaceholder": "#c9d05c",
+		"TemplateReadOnlyPlaceholder": "#f43753",
+		"TextSelection": "#484848",
+		"WordWrapMarker": "#4c4c4c"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#f43753",
+			"bold": true,
+			"selected-text-color": "#feffff",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#eeeeee",
+			"text-color": "#b8b8b8"
+		},
+		"Attribute": {
+			"selected-text-color": "#feffff",
+			"text-color": "#b3deef"
+		},
+		"BaseN": {
+			"selected-text-color": "#feffff",
+			"text-color": "#dc9656"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#b3deef",
+			"text-color": "#b3deef"
+		},
+		"Char": {
+			"selected-text-color": "#e8e8e8",
+			"text-color": "#73cef4"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#feffff",
+			"text-color": "#4c4c4c"
+		},
+		"CommentVar": {
+			"selected-text-color": "#73cef4",
+			"text-color": "#73cef4"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#dc9656",
+			"text-color": "#dc9656"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#feffff",
+			"text-color": "#dc9656"
+		},
+		"DataType": {
+			"selected-text-color": "#feffff",
+			"text-color": "#ffc24b"
+		},
+		"DecVal": {
+			"selected-text-color": "#feffff",
+			"text-color": "#dc9656"
+		},
+		"Documentation": {
+			"selected-text-color": "#f43753",
+			"text-color": "#f43753"
+		},
+		"Error": {
+			"selected-text-color": "#f43753",
+			"text-color": "#f43753",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#b3deef",
+			"text-color": "#b3deef"
+		},
+		"Float": {
+			"selected-text-color": "#feffff",
+			"text-color": "#dc9656"
+		},
+		"Function": {
+			"selected-text-color": "#feffff",
+			"text-color": "#b3deef"
+		},
+		"Import": {
+			"selected-text-color": "#a16946",
+			"text-color": "#a16946"
+		},
+		"Information": {
+			"selected-text-color": "#73cef4",
+			"text-color": "#73cef4"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#feffff",
+			"text-color": "#d3b987"
+		},
+		"Normal": {
+			"selected-text-color": "#feffff",
+			"text-color": "#eeeeee"
+		},
+		"Operator": {
+			"selected-text-color": "#feffff",
+			"text-color": "#eeeeee"
+		},
+		"Others": {
+			"selected-text-color": "#feffff",
+			"text-color": "#ffc24b"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#c9d05c",
+			"text-color": "#c9d05c"
+		},
+		"RegionMarker": {
+			"background-color": "#b8b8b8",
+			"selected-text-color": "#feffff",
+			"text-color": "#feffff"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#e8e8e8",
+			"text-color": "#73cef4"
+		},
+		"SpecialString": {
+			"selected-text-color": "#a16946",
+			"text-color": "#a16946"
+		},
+		"String": {
+			"selected-text-color": "#feffff",
+			"text-color": "#c9d05c"
+		},
+		"Variable": {
+			"selected-text-color": "#f43753",
+			"text-color": "#f43753"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#c9d05c",
+			"text-color": "#c9d05c"
+		},
+		"Warning": {
+			"selected-text-color": "#ffc24b",
+			"text-color": "#ffc24b"
+		}
+	}
+}

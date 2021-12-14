@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Alexandre Gavioli (http://github.com/Alexx2/)"],
+		"name": "Base16 Marrakesh",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#201602",
+		"BracketMatching": "#6c6823",
+		"CodeFolding": "#5f5b17",
+		"CurrentLine": "#302e00",
+		"CurrentLineNumber": "#86813b",
+		"IconBorder": "#302e00",
+		"IndentationLine": "#6c6823",
+		"LineNumbers": "#6c6823",
+		"MarkBookmark": "#477ca1",
+		"MarkBreakpointActive": "#c35359",
+		"MarkBreakpointDisabled": "#8868b3",
+		"MarkBreakpointReached": "#a88339",
+		"MarkError": "#c35359",
+		"MarkExecution": "#75a738",
+		"MarkWarning": "#b36144",
+		"ModifiedLines": "#b36144",
+		"ReplaceHighlight": "#18974e",
+		"SavedLines": "#18974e",
+		"SearchHighlight": "#a88339",
+		"Separator": "#6c6823",
+		"SpellChecking": "#c35359",
+		"TabMarker": "#6c6823",
+		"TemplateBackground": "#302e00",
+		"TemplateFocusedPlaceholder": "#18974e",
+		"TemplatePlaceholder": "#18974e",
+		"TemplateReadOnlyPlaceholder": "#c35359",
+		"TextSelection": "#5f5b17",
+		"WordWrapMarker": "#6c6823"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#c35359",
+			"bold": true,
+			"selected-text-color": "#faf0a5",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#948e48",
+			"text-color": "#86813b"
+		},
+		"Attribute": {
+			"selected-text-color": "#faf0a5",
+			"text-color": "#477ca1"
+		},
+		"BaseN": {
+			"selected-text-color": "#faf0a5",
+			"text-color": "#b36144"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#477ca1",
+			"text-color": "#477ca1"
+		},
+		"Char": {
+			"selected-text-color": "#ccc37a",
+			"text-color": "#75a738"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#faf0a5",
+			"text-color": "#6c6823"
+		},
+		"CommentVar": {
+			"selected-text-color": "#75a738",
+			"text-color": "#75a738"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#b36144",
+			"text-color": "#b36144"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#faf0a5",
+			"text-color": "#b36144"
+		},
+		"DataType": {
+			"selected-text-color": "#faf0a5",
+			"text-color": "#a88339"
+		},
+		"DecVal": {
+			"selected-text-color": "#faf0a5",
+			"text-color": "#b36144"
+		},
+		"Documentation": {
+			"selected-text-color": "#c35359",
+			"text-color": "#c35359"
+		},
+		"Error": {
+			"selected-text-color": "#c35359",
+			"text-color": "#c35359",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#477ca1",
+			"text-color": "#477ca1"
+		},
+		"Float": {
+			"selected-text-color": "#faf0a5",
+			"text-color": "#b36144"
+		},
+		"Function": {
+			"selected-text-color": "#faf0a5",
+			"text-color": "#477ca1"
+		},
+		"Import": {
+			"selected-text-color": "#b3588e",
+			"text-color": "#b3588e"
+		},
+		"Information": {
+			"selected-text-color": "#75a738",
+			"text-color": "#75a738"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#faf0a5",
+			"text-color": "#8868b3"
+		},
+		"Normal": {
+			"selected-text-color": "#faf0a5",
+			"text-color": "#948e48"
+		},
+		"Operator": {
+			"selected-text-color": "#faf0a5",
+			"text-color": "#948e48"
+		},
+		"Others": {
+			"selected-text-color": "#faf0a5",
+			"text-color": "#a88339"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#18974e",
+			"text-color": "#18974e"
+		},
+		"RegionMarker": {
+			"background-color": "#86813b",
+			"selected-text-color": "#faf0a5",
+			"text-color": "#faf0a5"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#ccc37a",
+			"text-color": "#75a738"
+		},
+		"SpecialString": {
+			"selected-text-color": "#b3588e",
+			"text-color": "#b3588e"
+		},
+		"String": {
+			"selected-text-color": "#faf0a5",
+			"text-color": "#18974e"
+		},
+		"Variable": {
+			"selected-text-color": "#c35359",
+			"text-color": "#c35359"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#18974e",
+			"text-color": "#18974e"
+		},
+		"Warning": {
+			"selected-text-color": "#a88339",
+			"text-color": "#a88339"
+		}
+	}
+}

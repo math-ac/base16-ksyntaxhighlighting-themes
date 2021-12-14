@@ -1,0 +1,176 @@
+{
+    "custom-styles": {
+    },
+    "editor-colors": {
+        "BackgroundColor": "#282b35",
+        "BracketMatching": "#686a71",
+        "CodeFolding": "#53555d",
+        "CurrentLine": "#3d4048",
+        "CurrentLineNumber": "#7e8086",
+        "IconBorder": "#3d4048",
+        "IndentationLine": "#686a71",
+        "LineNumbers": "#686a71",
+        "MarkBookmark": "#790ead",
+        "MarkBreakpointActive": "#b21889",
+        "MarkBreakpointDisabled": "#b21889",
+        "MarkBreakpointReached": "#438288",
+        "MarkError": "#b21889",
+        "MarkExecution": "#00a0be",
+        "MarkWarning": "#786dc5",
+        "ModifiedLines": "#786dc5",
+        "ReplaceHighlight": "#df0002",
+        "SavedLines": "#df0002",
+        "SearchHighlight": "#438288",
+        "Separator": "#686a71",
+        "SpellChecking": "#b21889",
+        "TabMarker": "#686a71",
+        "TemplateBackground": "#3d4048",
+        "TemplateFocusedPlaceholder": "#df0002",
+        "TemplatePlaceholder": "#df0002",
+        "TemplateReadOnlyPlaceholder": "#b21889",
+        "TextSelection": "#53555d",
+        "WordWrapMarker": "#686a71"
+    },
+    "metadata": {
+        "copyright": [
+            "Elsa Gonsiorowski (https://github.com/gonsie)"
+        ],
+        "name": "Base16 XCode Dusk",
+        "revision": 1
+    },
+    "text-styles": {
+        "Alert": {
+            "background-color": "#b21889",
+            "bold": true,
+            "selected-text-color": "#bebfc2",
+            "text-color": "#000000"
+        },
+        "Annotation": {
+            "selected-text-color": "#939599",
+            "text-color": "#7e8086"
+        },
+        "Attribute": {
+            "selected-text-color": "#bebfc2",
+            "text-color": "#790ead"
+        },
+        "BaseN": {
+            "selected-text-color": "#bebfc2",
+            "text-color": "#786dc5"
+        },
+        "BuiltIn": {
+            "selected-text-color": "#790ead",
+            "text-color": "#790ead"
+        },
+        "Char": {
+            "selected-text-color": "#a9aaae",
+            "text-color": "#00a0be"
+        },
+        "Comment": {
+            "italic": true,
+            "selected-text-color": "#bebfc2",
+            "text-color": "#686a71"
+        },
+        "CommentVar": {
+            "selected-text-color": "#00a0be",
+            "text-color": "#00a0be"
+        },
+        "Constant": {
+            "bold": true,
+            "selected-text-color": "#786dc5",
+            "text-color": "#786dc5"
+        },
+        "ControlFlow": {
+            "bold": true,
+            "selected-text-color": "#bebfc2",
+            "text-color": "#786dc5"
+        },
+        "DataType": {
+            "selected-text-color": "#bebfc2",
+            "text-color": "#438288"
+        },
+        "DecVal": {
+            "selected-text-color": "#bebfc2",
+            "text-color": "#786dc5"
+        },
+        "Documentation": {
+            "selected-text-color": "#b21889",
+            "text-color": "#b21889"
+        },
+        "Error": {
+            "selected-text-color": "#b21889",
+            "text-color": "#b21889",
+            "underline": true
+        },
+        "Extension": {
+            "bold": true,
+            "selected-text-color": "#790ead",
+            "text-color": "#790ead"
+        },
+        "Float": {
+            "selected-text-color": "#bebfc2",
+            "text-color": "#786dc5"
+        },
+        "Function": {
+            "selected-text-color": "#bebfc2",
+            "text-color": "#790ead"
+        },
+        "Import": {
+            "selected-text-color": "#c77c48",
+            "text-color": "#c77c48"
+        },
+        "Information": {
+            "selected-text-color": "#00a0be",
+            "text-color": "#00a0be"
+        },
+        "Keyword": {
+            "bold": true,
+            "selected-text-color": "#bebfc2",
+            "text-color": "#b21889"
+        },
+        "Normal": {
+            "selected-text-color": "#bebfc2",
+            "text-color": "#939599"
+        },
+        "Operator": {
+            "selected-text-color": "#bebfc2",
+            "text-color": "#939599"
+        },
+        "Others": {
+            "selected-text-color": "#bebfc2",
+            "text-color": "#438288"
+        },
+        "Preprocessor": {
+            "selected-text-color": "#df0002",
+            "text-color": "#df0002"
+        },
+        "RegionMarker": {
+            "background-color": "#7e8086",
+            "selected-text-color": "#bebfc2",
+            "text-color": "#bebfc2"
+        },
+        "SpecialChar": {
+            "selected-text-color": "#a9aaae",
+            "text-color": "#00a0be"
+        },
+        "SpecialString": {
+            "selected-text-color": "#c77c48",
+            "text-color": "#c77c48"
+        },
+        "String": {
+            "selected-text-color": "#bebfc2",
+            "text-color": "#df0002"
+        },
+        "Variable": {
+            "selected-text-color": "#b21889",
+            "text-color": "#b21889"
+        },
+        "VerbatimString": {
+            "selected-text-color": "#df0002",
+            "text-color": "#df0002"
+        },
+        "Warning": {
+            "selected-text-color": "#438288",
+            "text-color": "#438288"
+        }
+    }
+}

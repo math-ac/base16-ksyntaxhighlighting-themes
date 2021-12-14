@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Ryan Bates (http://railscasts.com)"],
+		"name": "Base16 Railscasts",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#2b2b2b",
+		"BracketMatching": "#5a647e",
+		"CodeFolding": "#3a4055",
+		"CurrentLine": "#272935",
+		"CurrentLineNumber": "#d4cfc9",
+		"IconBorder": "#272935",
+		"IndentationLine": "#5a647e",
+		"LineNumbers": "#5a647e",
+		"MarkBookmark": "#6d9cbe",
+		"MarkBreakpointActive": "#da4939",
+		"MarkBreakpointDisabled": "#b6b3eb",
+		"MarkBreakpointReached": "#ffc66d",
+		"MarkError": "#da4939",
+		"MarkExecution": "#519f50",
+		"MarkWarning": "#cc7833",
+		"ModifiedLines": "#cc7833",
+		"ReplaceHighlight": "#a5c261",
+		"SavedLines": "#a5c261",
+		"SearchHighlight": "#ffc66d",
+		"Separator": "#5a647e",
+		"SpellChecking": "#da4939",
+		"TabMarker": "#5a647e",
+		"TemplateBackground": "#272935",
+		"TemplateFocusedPlaceholder": "#a5c261",
+		"TemplatePlaceholder": "#a5c261",
+		"TemplateReadOnlyPlaceholder": "#da4939",
+		"TextSelection": "#3a4055",
+		"WordWrapMarker": "#5a647e"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#da4939",
+			"bold": true,
+			"selected-text-color": "#f9f7f3",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#e6e1dc",
+			"text-color": "#d4cfc9"
+		},
+		"Attribute": {
+			"selected-text-color": "#f9f7f3",
+			"text-color": "#6d9cbe"
+		},
+		"BaseN": {
+			"selected-text-color": "#f9f7f3",
+			"text-color": "#cc7833"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#6d9cbe",
+			"text-color": "#6d9cbe"
+		},
+		"Char": {
+			"selected-text-color": "#f4f1ed",
+			"text-color": "#519f50"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#f9f7f3",
+			"text-color": "#5a647e"
+		},
+		"CommentVar": {
+			"selected-text-color": "#519f50",
+			"text-color": "#519f50"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#cc7833",
+			"text-color": "#cc7833"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#f9f7f3",
+			"text-color": "#cc7833"
+		},
+		"DataType": {
+			"selected-text-color": "#f9f7f3",
+			"text-color": "#ffc66d"
+		},
+		"DecVal": {
+			"selected-text-color": "#f9f7f3",
+			"text-color": "#cc7833"
+		},
+		"Documentation": {
+			"selected-text-color": "#da4939",
+			"text-color": "#da4939"
+		},
+		"Error": {
+			"selected-text-color": "#da4939",
+			"text-color": "#da4939",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#6d9cbe",
+			"text-color": "#6d9cbe"
+		},
+		"Float": {
+			"selected-text-color": "#f9f7f3",
+			"text-color": "#cc7833"
+		},
+		"Function": {
+			"selected-text-color": "#f9f7f3",
+			"text-color": "#6d9cbe"
+		},
+		"Import": {
+			"selected-text-color": "#bc9458",
+			"text-color": "#bc9458"
+		},
+		"Information": {
+			"selected-text-color": "#519f50",
+			"text-color": "#519f50"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#f9f7f3",
+			"text-color": "#b6b3eb"
+		},
+		"Normal": {
+			"selected-text-color": "#f9f7f3",
+			"text-color": "#e6e1dc"
+		},
+		"Operator": {
+			"selected-text-color": "#f9f7f3",
+			"text-color": "#e6e1dc"
+		},
+		"Others": {
+			"selected-text-color": "#f9f7f3",
+			"text-color": "#ffc66d"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#a5c261",
+			"text-color": "#a5c261"
+		},
+		"RegionMarker": {
+			"background-color": "#d4cfc9",
+			"selected-text-color": "#f9f7f3",
+			"text-color": "#f9f7f3"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#f4f1ed",
+			"text-color": "#519f50"
+		},
+		"SpecialString": {
+			"selected-text-color": "#bc9458",
+			"text-color": "#bc9458"
+		},
+		"String": {
+			"selected-text-color": "#f9f7f3",
+			"text-color": "#a5c261"
+		},
+		"Variable": {
+			"selected-text-color": "#da4939",
+			"text-color": "#da4939"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#a5c261",
+			"text-color": "#a5c261"
+		},
+		"Warning": {
+			"selected-text-color": "#ffc66d",
+			"text-color": "#ffc66d"
+		}
+	}
+}

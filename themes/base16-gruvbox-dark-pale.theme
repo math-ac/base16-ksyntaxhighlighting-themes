@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)"],
+		"name": "Base16 Gruvbox dark, pale",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#262626",
+		"BracketMatching": "#8a8a8a",
+		"CodeFolding": "#4e4e4e",
+		"CurrentLine": "#3a3a3a",
+		"CurrentLineNumber": "#949494",
+		"IconBorder": "#3a3a3a",
+		"IndentationLine": "#8a8a8a",
+		"LineNumbers": "#8a8a8a",
+		"MarkBookmark": "#83adad",
+		"MarkBreakpointActive": "#d75f5f",
+		"MarkBreakpointDisabled": "#d485ad",
+		"MarkBreakpointReached": "#ffaf00",
+		"MarkError": "#d75f5f",
+		"MarkExecution": "#85ad85",
+		"MarkWarning": "#ff8700",
+		"ModifiedLines": "#ff8700",
+		"ReplaceHighlight": "#afaf00",
+		"SavedLines": "#afaf00",
+		"SearchHighlight": "#ffaf00",
+		"Separator": "#8a8a8a",
+		"SpellChecking": "#d75f5f",
+		"TabMarker": "#8a8a8a",
+		"TemplateBackground": "#3a3a3a",
+		"TemplateFocusedPlaceholder": "#afaf00",
+		"TemplatePlaceholder": "#afaf00",
+		"TemplateReadOnlyPlaceholder": "#d75f5f",
+		"TextSelection": "#4e4e4e",
+		"WordWrapMarker": "#8a8a8a"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#d75f5f",
+			"bold": true,
+			"selected-text-color": "#ebdbb2",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#dab997",
+			"text-color": "#949494"
+		},
+		"Attribute": {
+			"selected-text-color": "#ebdbb2",
+			"text-color": "#83adad"
+		},
+		"BaseN": {
+			"selected-text-color": "#ebdbb2",
+			"text-color": "#ff8700"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#83adad",
+			"text-color": "#83adad"
+		},
+		"Char": {
+			"selected-text-color": "#d5c4a1",
+			"text-color": "#85ad85"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#ebdbb2",
+			"text-color": "#8a8a8a"
+		},
+		"CommentVar": {
+			"selected-text-color": "#85ad85",
+			"text-color": "#85ad85"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#ff8700",
+			"text-color": "#ff8700"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#ebdbb2",
+			"text-color": "#ff8700"
+		},
+		"DataType": {
+			"selected-text-color": "#ebdbb2",
+			"text-color": "#ffaf00"
+		},
+		"DecVal": {
+			"selected-text-color": "#ebdbb2",
+			"text-color": "#ff8700"
+		},
+		"Documentation": {
+			"selected-text-color": "#d75f5f",
+			"text-color": "#d75f5f"
+		},
+		"Error": {
+			"selected-text-color": "#d75f5f",
+			"text-color": "#d75f5f",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#83adad",
+			"text-color": "#83adad"
+		},
+		"Float": {
+			"selected-text-color": "#ebdbb2",
+			"text-color": "#ff8700"
+		},
+		"Function": {
+			"selected-text-color": "#ebdbb2",
+			"text-color": "#83adad"
+		},
+		"Import": {
+			"selected-text-color": "#d65d0e",
+			"text-color": "#d65d0e"
+		},
+		"Information": {
+			"selected-text-color": "#85ad85",
+			"text-color": "#85ad85"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#ebdbb2",
+			"text-color": "#d485ad"
+		},
+		"Normal": {
+			"selected-text-color": "#ebdbb2",
+			"text-color": "#dab997"
+		},
+		"Operator": {
+			"selected-text-color": "#ebdbb2",
+			"text-color": "#dab997"
+		},
+		"Others": {
+			"selected-text-color": "#ebdbb2",
+			"text-color": "#ffaf00"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#afaf00",
+			"text-color": "#afaf00"
+		},
+		"RegionMarker": {
+			"background-color": "#949494",
+			"selected-text-color": "#ebdbb2",
+			"text-color": "#ebdbb2"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#d5c4a1",
+			"text-color": "#85ad85"
+		},
+		"SpecialString": {
+			"selected-text-color": "#d65d0e",
+			"text-color": "#d65d0e"
+		},
+		"String": {
+			"selected-text-color": "#ebdbb2",
+			"text-color": "#afaf00"
+		},
+		"Variable": {
+			"selected-text-color": "#d75f5f",
+			"text-color": "#d75f5f"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#afaf00",
+			"text-color": "#afaf00"
+		},
+		"Warning": {
+			"selected-text-color": "#ffaf00",
+			"text-color": "#ffaf00"
+		}
+	}
+}

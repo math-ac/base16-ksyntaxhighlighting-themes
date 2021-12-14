@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Gabriel Fontes (https://github.com/Misterio77)"],
+		"name": "Base16 Silk Light",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#E9F1EF",
+		"BracketMatching": "#5C787B",
+		"CodeFolding": "#90B7B6",
+		"CurrentLine": "#CCD4D3",
+		"CurrentLineNumber": "#4B5B5F",
+		"IconBorder": "#CCD4D3",
+		"IndentationLine": "#5C787B",
+		"LineNumbers": "#5C787B",
+		"MarkBookmark": "#39AAC9",
+		"MarkBreakpointActive": "#CF432E",
+		"MarkBreakpointDisabled": "#6E6582",
+		"MarkBreakpointReached": "#CFAD25",
+		"MarkError": "#CF432E",
+		"MarkExecution": "#329CA2",
+		"MarkWarning": "#D27F46",
+		"ModifiedLines": "#D27F46",
+		"ReplaceHighlight": "#6CA38C",
+		"SavedLines": "#6CA38C",
+		"SearchHighlight": "#CFAD25",
+		"Separator": "#5C787B",
+		"SpellChecking": "#CF432E",
+		"TabMarker": "#5C787B",
+		"TemplateBackground": "#CCD4D3",
+		"TemplateFocusedPlaceholder": "#6CA38C",
+		"TemplatePlaceholder": "#6CA38C",
+		"TemplateReadOnlyPlaceholder": "#CF432E",
+		"TextSelection": "#90B7B6",
+		"WordWrapMarker": "#5C787B"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#CF432E",
+			"bold": true,
+			"selected-text-color": "#D2FAFF",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#385156",
+			"text-color": "#4B5B5F"
+		},
+		"Attribute": {
+			"selected-text-color": "#D2FAFF",
+			"text-color": "#39AAC9"
+		},
+		"BaseN": {
+			"selected-text-color": "#D2FAFF",
+			"text-color": "#D27F46"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#39AAC9",
+			"text-color": "#39AAC9"
+		},
+		"Char": {
+			"selected-text-color": "#0e3c46",
+			"text-color": "#329CA2"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#D2FAFF",
+			"text-color": "#5C787B"
+		},
+		"CommentVar": {
+			"selected-text-color": "#329CA2",
+			"text-color": "#329CA2"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#D27F46",
+			"text-color": "#D27F46"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#D2FAFF",
+			"text-color": "#D27F46"
+		},
+		"DataType": {
+			"selected-text-color": "#D2FAFF",
+			"text-color": "#CFAD25"
+		},
+		"DecVal": {
+			"selected-text-color": "#D2FAFF",
+			"text-color": "#D27F46"
+		},
+		"Documentation": {
+			"selected-text-color": "#CF432E",
+			"text-color": "#CF432E"
+		},
+		"Error": {
+			"selected-text-color": "#CF432E",
+			"text-color": "#CF432E",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#39AAC9",
+			"text-color": "#39AAC9"
+		},
+		"Float": {
+			"selected-text-color": "#D2FAFF",
+			"text-color": "#D27F46"
+		},
+		"Function": {
+			"selected-text-color": "#D2FAFF",
+			"text-color": "#39AAC9"
+		},
+		"Import": {
+			"selected-text-color": "#865369",
+			"text-color": "#865369"
+		},
+		"Information": {
+			"selected-text-color": "#329CA2",
+			"text-color": "#329CA2"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#D2FAFF",
+			"text-color": "#6E6582"
+		},
+		"Normal": {
+			"selected-text-color": "#D2FAFF",
+			"text-color": "#385156"
+		},
+		"Operator": {
+			"selected-text-color": "#D2FAFF",
+			"text-color": "#385156"
+		},
+		"Others": {
+			"selected-text-color": "#D2FAFF",
+			"text-color": "#CFAD25"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#6CA38C",
+			"text-color": "#6CA38C"
+		},
+		"RegionMarker": {
+			"background-color": "#4B5B5F",
+			"selected-text-color": "#D2FAFF",
+			"text-color": "#D2FAFF"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#0e3c46",
+			"text-color": "#329CA2"
+		},
+		"SpecialString": {
+			"selected-text-color": "#865369",
+			"text-color": "#865369"
+		},
+		"String": {
+			"selected-text-color": "#D2FAFF",
+			"text-color": "#6CA38C"
+		},
+		"Variable": {
+			"selected-text-color": "#CF432E",
+			"text-color": "#CF432E"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#6CA38C",
+			"text-color": "#6CA38C"
+		},
+		"Warning": {
+			"selected-text-color": "#CFAD25",
+			"text-color": "#CFAD25"
+		}
+	}
+}

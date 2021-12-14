@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Defman21"],
+		"name": "Base16 Materia",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#263238",
+		"BracketMatching": "#707880",
+		"CodeFolding": "#37474F",
+		"CurrentLine": "#2C393F",
+		"CurrentLineNumber": "#C9CCD3",
+		"IconBorder": "#2C393F",
+		"IndentationLine": "#707880",
+		"LineNumbers": "#707880",
+		"MarkBookmark": "#89DDFF",
+		"MarkBreakpointActive": "#EC5F67",
+		"MarkBreakpointDisabled": "#82AAFF",
+		"MarkBreakpointReached": "#FFCC00",
+		"MarkError": "#EC5F67",
+		"MarkExecution": "#80CBC4",
+		"MarkWarning": "#EA9560",
+		"ModifiedLines": "#EA9560",
+		"ReplaceHighlight": "#8BD649",
+		"SavedLines": "#8BD649",
+		"SearchHighlight": "#FFCC00",
+		"Separator": "#707880",
+		"SpellChecking": "#EC5F67",
+		"TabMarker": "#707880",
+		"TemplateBackground": "#2C393F",
+		"TemplateFocusedPlaceholder": "#8BD649",
+		"TemplatePlaceholder": "#8BD649",
+		"TemplateReadOnlyPlaceholder": "#EC5F67",
+		"TextSelection": "#37474F",
+		"WordWrapMarker": "#707880"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#EC5F67",
+			"bold": true,
+			"selected-text-color": "#FFFFFF",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#CDD3DE",
+			"text-color": "#C9CCD3"
+		},
+		"Attribute": {
+			"selected-text-color": "#FFFFFF",
+			"text-color": "#89DDFF"
+		},
+		"BaseN": {
+			"selected-text-color": "#FFFFFF",
+			"text-color": "#EA9560"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#89DDFF",
+			"text-color": "#89DDFF"
+		},
+		"Char": {
+			"selected-text-color": "#D5DBE5",
+			"text-color": "#80CBC4"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#FFFFFF",
+			"text-color": "#707880"
+		},
+		"CommentVar": {
+			"selected-text-color": "#80CBC4",
+			"text-color": "#80CBC4"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#EA9560",
+			"text-color": "#EA9560"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#FFFFFF",
+			"text-color": "#EA9560"
+		},
+		"DataType": {
+			"selected-text-color": "#FFFFFF",
+			"text-color": "#FFCC00"
+		},
+		"DecVal": {
+			"selected-text-color": "#FFFFFF",
+			"text-color": "#EA9560"
+		},
+		"Documentation": {
+			"selected-text-color": "#EC5F67",
+			"text-color": "#EC5F67"
+		},
+		"Error": {
+			"selected-text-color": "#EC5F67",
+			"text-color": "#EC5F67",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#89DDFF",
+			"text-color": "#89DDFF"
+		},
+		"Float": {
+			"selected-text-color": "#FFFFFF",
+			"text-color": "#EA9560"
+		},
+		"Function": {
+			"selected-text-color": "#FFFFFF",
+			"text-color": "#89DDFF"
+		},
+		"Import": {
+			"selected-text-color": "#EC5F67",
+			"text-color": "#EC5F67"
+		},
+		"Information": {
+			"selected-text-color": "#80CBC4",
+			"text-color": "#80CBC4"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#FFFFFF",
+			"text-color": "#82AAFF"
+		},
+		"Normal": {
+			"selected-text-color": "#FFFFFF",
+			"text-color": "#CDD3DE"
+		},
+		"Operator": {
+			"selected-text-color": "#FFFFFF",
+			"text-color": "#CDD3DE"
+		},
+		"Others": {
+			"selected-text-color": "#FFFFFF",
+			"text-color": "#FFCC00"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#8BD649",
+			"text-color": "#8BD649"
+		},
+		"RegionMarker": {
+			"background-color": "#C9CCD3",
+			"selected-text-color": "#FFFFFF",
+			"text-color": "#FFFFFF"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#D5DBE5",
+			"text-color": "#80CBC4"
+		},
+		"SpecialString": {
+			"selected-text-color": "#EC5F67",
+			"text-color": "#EC5F67"
+		},
+		"String": {
+			"selected-text-color": "#FFFFFF",
+			"text-color": "#8BD649"
+		},
+		"Variable": {
+			"selected-text-color": "#EC5F67",
+			"text-color": "#EC5F67"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#8BD649",
+			"text-color": "#8BD649"
+		},
+		"Warning": {
+			"selected-text-color": "#FFCC00",
+			"text-color": "#FFCC00"
+		}
+	}
+}

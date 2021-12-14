@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)"],
+		"name": "Base16 Spacemacs",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#1f2022",
+		"BracketMatching": "#585858",
+		"CodeFolding": "#444155",
+		"CurrentLine": "#282828",
+		"CurrentLineNumber": "#b8b8b8",
+		"IconBorder": "#282828",
+		"IndentationLine": "#585858",
+		"LineNumbers": "#585858",
+		"MarkBookmark": "#4f97d7",
+		"MarkBreakpointActive": "#f2241f",
+		"MarkBreakpointDisabled": "#a31db1",
+		"MarkBreakpointReached": "#b1951d",
+		"MarkError": "#f2241f",
+		"MarkExecution": "#2d9574",
+		"MarkWarning": "#ffa500",
+		"ModifiedLines": "#ffa500",
+		"ReplaceHighlight": "#67b11d",
+		"SavedLines": "#67b11d",
+		"SearchHighlight": "#b1951d",
+		"Separator": "#585858",
+		"SpellChecking": "#f2241f",
+		"TabMarker": "#585858",
+		"TemplateBackground": "#282828",
+		"TemplateFocusedPlaceholder": "#67b11d",
+		"TemplatePlaceholder": "#67b11d",
+		"TemplateReadOnlyPlaceholder": "#f2241f",
+		"TextSelection": "#444155",
+		"WordWrapMarker": "#585858"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#f2241f",
+			"bold": true,
+			"selected-text-color": "#f8f8f8",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#a3a3a3",
+			"text-color": "#b8b8b8"
+		},
+		"Attribute": {
+			"selected-text-color": "#f8f8f8",
+			"text-color": "#4f97d7"
+		},
+		"BaseN": {
+			"selected-text-color": "#f8f8f8",
+			"text-color": "#ffa500"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#4f97d7",
+			"text-color": "#4f97d7"
+		},
+		"Char": {
+			"selected-text-color": "#e8e8e8",
+			"text-color": "#2d9574"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#f8f8f8",
+			"text-color": "#585858"
+		},
+		"CommentVar": {
+			"selected-text-color": "#2d9574",
+			"text-color": "#2d9574"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#ffa500",
+			"text-color": "#ffa500"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#f8f8f8",
+			"text-color": "#ffa500"
+		},
+		"DataType": {
+			"selected-text-color": "#f8f8f8",
+			"text-color": "#b1951d"
+		},
+		"DecVal": {
+			"selected-text-color": "#f8f8f8",
+			"text-color": "#ffa500"
+		},
+		"Documentation": {
+			"selected-text-color": "#f2241f",
+			"text-color": "#f2241f"
+		},
+		"Error": {
+			"selected-text-color": "#f2241f",
+			"text-color": "#f2241f",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#4f97d7",
+			"text-color": "#4f97d7"
+		},
+		"Float": {
+			"selected-text-color": "#f8f8f8",
+			"text-color": "#ffa500"
+		},
+		"Function": {
+			"selected-text-color": "#f8f8f8",
+			"text-color": "#4f97d7"
+		},
+		"Import": {
+			"selected-text-color": "#b03060",
+			"text-color": "#b03060"
+		},
+		"Information": {
+			"selected-text-color": "#2d9574",
+			"text-color": "#2d9574"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#f8f8f8",
+			"text-color": "#a31db1"
+		},
+		"Normal": {
+			"selected-text-color": "#f8f8f8",
+			"text-color": "#a3a3a3"
+		},
+		"Operator": {
+			"selected-text-color": "#f8f8f8",
+			"text-color": "#a3a3a3"
+		},
+		"Others": {
+			"selected-text-color": "#f8f8f8",
+			"text-color": "#b1951d"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#67b11d",
+			"text-color": "#67b11d"
+		},
+		"RegionMarker": {
+			"background-color": "#b8b8b8",
+			"selected-text-color": "#f8f8f8",
+			"text-color": "#f8f8f8"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#e8e8e8",
+			"text-color": "#2d9574"
+		},
+		"SpecialString": {
+			"selected-text-color": "#b03060",
+			"text-color": "#b03060"
+		},
+		"String": {
+			"selected-text-color": "#f8f8f8",
+			"text-color": "#67b11d"
+		},
+		"Variable": {
+			"selected-text-color": "#f2241f",
+			"text-color": "#f2241f"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#67b11d",
+			"text-color": "#67b11d"
+		},
+		"Warning": {
+			"selected-text-color": "#b1951d",
+			"text-color": "#b1951d"
+		}
+	}
+}

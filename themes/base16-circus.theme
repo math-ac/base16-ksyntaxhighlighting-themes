@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)"],
+		"name": "Base16 Circus",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#191919",
+		"BracketMatching": "#5f5a60",
+		"CodeFolding": "#303030",
+		"CurrentLine": "#202020",
+		"CurrentLineNumber": "#505050",
+		"IconBorder": "#202020",
+		"IndentationLine": "#5f5a60",
+		"LineNumbers": "#5f5a60",
+		"MarkBookmark": "#639ee4",
+		"MarkBreakpointActive": "#dc657d",
+		"MarkBreakpointDisabled": "#b888e2",
+		"MarkBreakpointReached": "#c3ba63",
+		"MarkError": "#dc657d",
+		"MarkExecution": "#4bb1a7",
+		"MarkWarning": "#4bb1a7",
+		"ModifiedLines": "#4bb1a7",
+		"ReplaceHighlight": "#84b97c",
+		"SavedLines": "#84b97c",
+		"SearchHighlight": "#c3ba63",
+		"Separator": "#5f5a60",
+		"SpellChecking": "#dc657d",
+		"TabMarker": "#5f5a60",
+		"TemplateBackground": "#202020",
+		"TemplateFocusedPlaceholder": "#84b97c",
+		"TemplatePlaceholder": "#84b97c",
+		"TemplateReadOnlyPlaceholder": "#dc657d",
+		"TextSelection": "#303030",
+		"WordWrapMarker": "#5f5a60"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#dc657d",
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#a7a7a7",
+			"text-color": "#505050"
+		},
+		"Attribute": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#639ee4"
+		},
+		"BaseN": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#4bb1a7"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#639ee4",
+			"text-color": "#639ee4"
+		},
+		"Char": {
+			"selected-text-color": "#808080",
+			"text-color": "#4bb1a7"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#5f5a60"
+		},
+		"CommentVar": {
+			"selected-text-color": "#4bb1a7",
+			"text-color": "#4bb1a7"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#4bb1a7",
+			"text-color": "#4bb1a7"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#4bb1a7"
+		},
+		"DataType": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#c3ba63"
+		},
+		"DecVal": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#4bb1a7"
+		},
+		"Documentation": {
+			"selected-text-color": "#dc657d",
+			"text-color": "#dc657d"
+		},
+		"Error": {
+			"selected-text-color": "#dc657d",
+			"text-color": "#dc657d",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#639ee4",
+			"text-color": "#639ee4"
+		},
+		"Float": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#4bb1a7"
+		},
+		"Function": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#639ee4"
+		},
+		"Import": {
+			"selected-text-color": "#b888e2",
+			"text-color": "#b888e2"
+		},
+		"Information": {
+			"selected-text-color": "#4bb1a7",
+			"text-color": "#4bb1a7"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#b888e2"
+		},
+		"Normal": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#a7a7a7"
+		},
+		"Operator": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#a7a7a7"
+		},
+		"Others": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#c3ba63"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#84b97c",
+			"text-color": "#84b97c"
+		},
+		"RegionMarker": {
+			"background-color": "#505050",
+			"selected-text-color": "#ffffff",
+			"text-color": "#ffffff"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#808080",
+			"text-color": "#4bb1a7"
+		},
+		"SpecialString": {
+			"selected-text-color": "#b888e2",
+			"text-color": "#b888e2"
+		},
+		"String": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#84b97c"
+		},
+		"Variable": {
+			"selected-text-color": "#dc657d",
+			"text-color": "#dc657d"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#84b97c",
+			"text-color": "#84b97c"
+		},
+		"Warning": {
+			"selected-text-color": "#c3ba63",
+			"text-color": "#c3ba63"
+		}
+	}
+}

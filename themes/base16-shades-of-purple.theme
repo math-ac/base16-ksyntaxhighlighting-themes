@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)."],
+		"name": "Base16 Shades of Purple",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#1e1e3f",
+		"BracketMatching": "#808080",
+		"CodeFolding": "#f1d000",
+		"CurrentLine": "#43d426",
+		"CurrentLineNumber": "#6871ff",
+		"IconBorder": "#43d426",
+		"IndentationLine": "#808080",
+		"LineNumbers": "#808080",
+		"MarkBookmark": "#6943ff",
+		"MarkBreakpointActive": "#d90429",
+		"MarkBreakpointDisabled": "#ff2c70",
+		"MarkBreakpointReached": "#ffe700",
+		"MarkError": "#d90429",
+		"MarkExecution": "#00c5c7",
+		"MarkWarning": "#f92a1c",
+		"ModifiedLines": "#f92a1c",
+		"ReplaceHighlight": "#3ad900",
+		"SavedLines": "#3ad900",
+		"SearchHighlight": "#ffe700",
+		"Separator": "#808080",
+		"SpellChecking": "#d90429",
+		"TabMarker": "#808080",
+		"TemplateBackground": "#43d426",
+		"TemplateFocusedPlaceholder": "#3ad900",
+		"TemplatePlaceholder": "#3ad900",
+		"TemplateReadOnlyPlaceholder": "#d90429",
+		"TextSelection": "#f1d000",
+		"WordWrapMarker": "#808080"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#d90429",
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#c7c7c7",
+			"text-color": "#6871ff"
+		},
+		"Attribute": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#6943ff"
+		},
+		"BaseN": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#f92a1c"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#6943ff",
+			"text-color": "#6943ff"
+		},
+		"Char": {
+			"selected-text-color": "#ff77ff",
+			"text-color": "#00c5c7"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#808080"
+		},
+		"CommentVar": {
+			"selected-text-color": "#00c5c7",
+			"text-color": "#00c5c7"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#f92a1c",
+			"text-color": "#f92a1c"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#f92a1c"
+		},
+		"DataType": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#ffe700"
+		},
+		"DecVal": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#f92a1c"
+		},
+		"Documentation": {
+			"selected-text-color": "#d90429",
+			"text-color": "#d90429"
+		},
+		"Error": {
+			"selected-text-color": "#d90429",
+			"text-color": "#d90429",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#6943ff",
+			"text-color": "#6943ff"
+		},
+		"Float": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#f92a1c"
+		},
+		"Function": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#6943ff"
+		},
+		"Import": {
+			"selected-text-color": "#79e8fb",
+			"text-color": "#79e8fb"
+		},
+		"Information": {
+			"selected-text-color": "#00c5c7",
+			"text-color": "#00c5c7"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#ff2c70"
+		},
+		"Normal": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#c7c7c7"
+		},
+		"Operator": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#c7c7c7"
+		},
+		"Others": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#ffe700"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#3ad900",
+			"text-color": "#3ad900"
+		},
+		"RegionMarker": {
+			"background-color": "#6871ff",
+			"selected-text-color": "#ffffff",
+			"text-color": "#ffffff"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#ff77ff",
+			"text-color": "#00c5c7"
+		},
+		"SpecialString": {
+			"selected-text-color": "#79e8fb",
+			"text-color": "#79e8fb"
+		},
+		"String": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#3ad900"
+		},
+		"Variable": {
+			"selected-text-color": "#d90429",
+			"text-color": "#d90429"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#3ad900",
+			"text-color": "#3ad900"
+		},
+		"Warning": {
+			"selected-text-color": "#ffe700",
+			"text-color": "#ffe700"
+		}
+	}
+}

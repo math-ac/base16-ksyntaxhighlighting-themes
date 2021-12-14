@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Bram de Haan (http://atelierbramdehaan.nl)"],
+		"name": "Base16 Atelier Plateau Light",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#f4ecec",
+		"BracketMatching": "#7e7777",
+		"CodeFolding": "#8a8585",
+		"CurrentLine": "#e7dfdf",
+		"CurrentLineNumber": "#655d5d",
+		"IconBorder": "#e7dfdf",
+		"IndentationLine": "#7e7777",
+		"LineNumbers": "#7e7777",
+		"MarkBookmark": "#7272ca",
+		"MarkBreakpointActive": "#ca4949",
+		"MarkBreakpointDisabled": "#8464c4",
+		"MarkBreakpointReached": "#a06e3b",
+		"MarkError": "#ca4949",
+		"MarkExecution": "#5485b6",
+		"MarkWarning": "#b45a3c",
+		"ModifiedLines": "#b45a3c",
+		"ReplaceHighlight": "#4b8b8b",
+		"SavedLines": "#4b8b8b",
+		"SearchHighlight": "#a06e3b",
+		"Separator": "#7e7777",
+		"SpellChecking": "#ca4949",
+		"TabMarker": "#7e7777",
+		"TemplateBackground": "#e7dfdf",
+		"TemplateFocusedPlaceholder": "#4b8b8b",
+		"TemplatePlaceholder": "#4b8b8b",
+		"TemplateReadOnlyPlaceholder": "#ca4949",
+		"TextSelection": "#8a8585",
+		"WordWrapMarker": "#7e7777"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#ca4949",
+			"bold": true,
+			"selected-text-color": "#1b1818",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#585050",
+			"text-color": "#655d5d"
+		},
+		"Attribute": {
+			"selected-text-color": "#1b1818",
+			"text-color": "#7272ca"
+		},
+		"BaseN": {
+			"selected-text-color": "#1b1818",
+			"text-color": "#b45a3c"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#7272ca",
+			"text-color": "#7272ca"
+		},
+		"Char": {
+			"selected-text-color": "#292424",
+			"text-color": "#5485b6"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#1b1818",
+			"text-color": "#7e7777"
+		},
+		"CommentVar": {
+			"selected-text-color": "#5485b6",
+			"text-color": "#5485b6"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#b45a3c",
+			"text-color": "#b45a3c"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#1b1818",
+			"text-color": "#b45a3c"
+		},
+		"DataType": {
+			"selected-text-color": "#1b1818",
+			"text-color": "#a06e3b"
+		},
+		"DecVal": {
+			"selected-text-color": "#1b1818",
+			"text-color": "#b45a3c"
+		},
+		"Documentation": {
+			"selected-text-color": "#ca4949",
+			"text-color": "#ca4949"
+		},
+		"Error": {
+			"selected-text-color": "#ca4949",
+			"text-color": "#ca4949",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#7272ca",
+			"text-color": "#7272ca"
+		},
+		"Float": {
+			"selected-text-color": "#1b1818",
+			"text-color": "#b45a3c"
+		},
+		"Function": {
+			"selected-text-color": "#1b1818",
+			"text-color": "#7272ca"
+		},
+		"Import": {
+			"selected-text-color": "#bd5187",
+			"text-color": "#bd5187"
+		},
+		"Information": {
+			"selected-text-color": "#5485b6",
+			"text-color": "#5485b6"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#1b1818",
+			"text-color": "#8464c4"
+		},
+		"Normal": {
+			"selected-text-color": "#1b1818",
+			"text-color": "#585050"
+		},
+		"Operator": {
+			"selected-text-color": "#1b1818",
+			"text-color": "#585050"
+		},
+		"Others": {
+			"selected-text-color": "#1b1818",
+			"text-color": "#a06e3b"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#4b8b8b",
+			"text-color": "#4b8b8b"
+		},
+		"RegionMarker": {
+			"background-color": "#655d5d",
+			"selected-text-color": "#1b1818",
+			"text-color": "#1b1818"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#292424",
+			"text-color": "#5485b6"
+		},
+		"SpecialString": {
+			"selected-text-color": "#bd5187",
+			"text-color": "#bd5187"
+		},
+		"String": {
+			"selected-text-color": "#1b1818",
+			"text-color": "#4b8b8b"
+		},
+		"Variable": {
+			"selected-text-color": "#ca4949",
+			"text-color": "#ca4949"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#4b8b8b",
+			"text-color": "#4b8b8b"
+		},
+		"Warning": {
+			"selected-text-color": "#a06e3b",
+			"text-color": "#a06e3b"
+		}
+	}
+}

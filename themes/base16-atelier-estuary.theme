@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Bram de Haan (http://atelierbramdehaan.nl)"],
+		"name": "Base16 Atelier Estuary",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#22221b",
+		"BracketMatching": "#6c6b5a",
+		"CodeFolding": "#5f5e4e",
+		"CurrentLine": "#302f27",
+		"CurrentLineNumber": "#878573",
+		"IconBorder": "#302f27",
+		"IndentationLine": "#6c6b5a",
+		"LineNumbers": "#6c6b5a",
+		"MarkBookmark": "#36a166",
+		"MarkBreakpointActive": "#ba6236",
+		"MarkBreakpointDisabled": "#5f9182",
+		"MarkBreakpointReached": "#a5980d",
+		"MarkError": "#ba6236",
+		"MarkExecution": "#5b9d48",
+		"MarkWarning": "#ae7313",
+		"ModifiedLines": "#ae7313",
+		"ReplaceHighlight": "#7d9726",
+		"SavedLines": "#7d9726",
+		"SearchHighlight": "#a5980d",
+		"Separator": "#6c6b5a",
+		"SpellChecking": "#ba6236",
+		"TabMarker": "#6c6b5a",
+		"TemplateBackground": "#302f27",
+		"TemplateFocusedPlaceholder": "#7d9726",
+		"TemplatePlaceholder": "#7d9726",
+		"TemplateReadOnlyPlaceholder": "#ba6236",
+		"TextSelection": "#5f5e4e",
+		"WordWrapMarker": "#6c6b5a"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#ba6236",
+			"bold": true,
+			"selected-text-color": "#f4f3ec",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#929181",
+			"text-color": "#878573"
+		},
+		"Attribute": {
+			"selected-text-color": "#f4f3ec",
+			"text-color": "#36a166"
+		},
+		"BaseN": {
+			"selected-text-color": "#f4f3ec",
+			"text-color": "#ae7313"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#36a166",
+			"text-color": "#36a166"
+		},
+		"Char": {
+			"selected-text-color": "#e7e6df",
+			"text-color": "#5b9d48"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#f4f3ec",
+			"text-color": "#6c6b5a"
+		},
+		"CommentVar": {
+			"selected-text-color": "#5b9d48",
+			"text-color": "#5b9d48"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#ae7313",
+			"text-color": "#ae7313"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#f4f3ec",
+			"text-color": "#ae7313"
+		},
+		"DataType": {
+			"selected-text-color": "#f4f3ec",
+			"text-color": "#a5980d"
+		},
+		"DecVal": {
+			"selected-text-color": "#f4f3ec",
+			"text-color": "#ae7313"
+		},
+		"Documentation": {
+			"selected-text-color": "#ba6236",
+			"text-color": "#ba6236"
+		},
+		"Error": {
+			"selected-text-color": "#ba6236",
+			"text-color": "#ba6236",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#36a166",
+			"text-color": "#36a166"
+		},
+		"Float": {
+			"selected-text-color": "#f4f3ec",
+			"text-color": "#ae7313"
+		},
+		"Function": {
+			"selected-text-color": "#f4f3ec",
+			"text-color": "#36a166"
+		},
+		"Import": {
+			"selected-text-color": "#9d6c7c",
+			"text-color": "#9d6c7c"
+		},
+		"Information": {
+			"selected-text-color": "#5b9d48",
+			"text-color": "#5b9d48"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#f4f3ec",
+			"text-color": "#5f9182"
+		},
+		"Normal": {
+			"selected-text-color": "#f4f3ec",
+			"text-color": "#929181"
+		},
+		"Operator": {
+			"selected-text-color": "#f4f3ec",
+			"text-color": "#929181"
+		},
+		"Others": {
+			"selected-text-color": "#f4f3ec",
+			"text-color": "#a5980d"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#7d9726",
+			"text-color": "#7d9726"
+		},
+		"RegionMarker": {
+			"background-color": "#878573",
+			"selected-text-color": "#f4f3ec",
+			"text-color": "#f4f3ec"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#e7e6df",
+			"text-color": "#5b9d48"
+		},
+		"SpecialString": {
+			"selected-text-color": "#9d6c7c",
+			"text-color": "#9d6c7c"
+		},
+		"String": {
+			"selected-text-color": "#f4f3ec",
+			"text-color": "#7d9726"
+		},
+		"Variable": {
+			"selected-text-color": "#ba6236",
+			"text-color": "#ba6236"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#7d9726",
+			"text-color": "#7d9726"
+		},
+		"Warning": {
+			"selected-text-color": "#a5980d",
+			"text-color": "#a5980d"
+		}
+	}
+}

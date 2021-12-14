@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)"],
+		"name": "Base16 Snazzy",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#282a36",
+		"BracketMatching": "#78787e",
+		"CodeFolding": "#43454f",
+		"CurrentLine": "#34353e",
+		"CurrentLineNumber": "#a5a5a9",
+		"IconBorder": "#34353e",
+		"IndentationLine": "#78787e",
+		"LineNumbers": "#78787e",
+		"MarkBookmark": "#57c7ff",
+		"MarkBreakpointActive": "#ff5c57",
+		"MarkBreakpointDisabled": "#ff6ac1",
+		"MarkBreakpointReached": "#f3f99d",
+		"MarkError": "#ff5c57",
+		"MarkExecution": "#9aedfe",
+		"MarkWarning": "#ff9f43",
+		"ModifiedLines": "#ff9f43",
+		"ReplaceHighlight": "#5af78e",
+		"SavedLines": "#5af78e",
+		"SearchHighlight": "#f3f99d",
+		"Separator": "#78787e",
+		"SpellChecking": "#ff5c57",
+		"TabMarker": "#78787e",
+		"TemplateBackground": "#34353e",
+		"TemplateFocusedPlaceholder": "#5af78e",
+		"TemplatePlaceholder": "#5af78e",
+		"TemplateReadOnlyPlaceholder": "#ff5c57",
+		"TextSelection": "#43454f",
+		"WordWrapMarker": "#78787e"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#ff5c57",
+			"bold": true,
+			"selected-text-color": "#f1f1f0",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#e2e4e5",
+			"text-color": "#a5a5a9"
+		},
+		"Attribute": {
+			"selected-text-color": "#f1f1f0",
+			"text-color": "#57c7ff"
+		},
+		"BaseN": {
+			"selected-text-color": "#f1f1f0",
+			"text-color": "#ff9f43"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#57c7ff",
+			"text-color": "#57c7ff"
+		},
+		"Char": {
+			"selected-text-color": "#eff0eb",
+			"text-color": "#9aedfe"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#f1f1f0",
+			"text-color": "#78787e"
+		},
+		"CommentVar": {
+			"selected-text-color": "#9aedfe",
+			"text-color": "#9aedfe"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#ff9f43",
+			"text-color": "#ff9f43"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#f1f1f0",
+			"text-color": "#ff9f43"
+		},
+		"DataType": {
+			"selected-text-color": "#f1f1f0",
+			"text-color": "#f3f99d"
+		},
+		"DecVal": {
+			"selected-text-color": "#f1f1f0",
+			"text-color": "#ff9f43"
+		},
+		"Documentation": {
+			"selected-text-color": "#ff5c57",
+			"text-color": "#ff5c57"
+		},
+		"Error": {
+			"selected-text-color": "#ff5c57",
+			"text-color": "#ff5c57",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#57c7ff",
+			"text-color": "#57c7ff"
+		},
+		"Float": {
+			"selected-text-color": "#f1f1f0",
+			"text-color": "#ff9f43"
+		},
+		"Function": {
+			"selected-text-color": "#f1f1f0",
+			"text-color": "#57c7ff"
+		},
+		"Import": {
+			"selected-text-color": "#b2643c",
+			"text-color": "#b2643c"
+		},
+		"Information": {
+			"selected-text-color": "#9aedfe",
+			"text-color": "#9aedfe"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#f1f1f0",
+			"text-color": "#ff6ac1"
+		},
+		"Normal": {
+			"selected-text-color": "#f1f1f0",
+			"text-color": "#e2e4e5"
+		},
+		"Operator": {
+			"selected-text-color": "#f1f1f0",
+			"text-color": "#e2e4e5"
+		},
+		"Others": {
+			"selected-text-color": "#f1f1f0",
+			"text-color": "#f3f99d"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#5af78e",
+			"text-color": "#5af78e"
+		},
+		"RegionMarker": {
+			"background-color": "#a5a5a9",
+			"selected-text-color": "#f1f1f0",
+			"text-color": "#f1f1f0"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#eff0eb",
+			"text-color": "#9aedfe"
+		},
+		"SpecialString": {
+			"selected-text-color": "#b2643c",
+			"text-color": "#b2643c"
+		},
+		"String": {
+			"selected-text-color": "#f1f1f0",
+			"text-color": "#5af78e"
+		},
+		"Variable": {
+			"selected-text-color": "#ff5c57",
+			"text-color": "#ff5c57"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#5af78e",
+			"text-color": "#5af78e"
+		},
+		"Warning": {
+			"selected-text-color": "#f3f99d",
+			"text-color": "#f3f99d"
+		}
+	}
+}

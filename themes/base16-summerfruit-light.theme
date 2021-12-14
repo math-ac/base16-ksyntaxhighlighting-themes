@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Christopher Corley (http://christop.club/)"],
+		"name": "Base16 Summerfruit Light",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#FFFFFF",
+		"BracketMatching": "#B0B0B0",
+		"CodeFolding": "#D0D0D0",
+		"CurrentLine": "#E0E0E0",
+		"CurrentLineNumber": "#000000",
+		"IconBorder": "#E0E0E0",
+		"IndentationLine": "#B0B0B0",
+		"LineNumbers": "#B0B0B0",
+		"MarkBookmark": "#3777E6",
+		"MarkBreakpointActive": "#FF0086",
+		"MarkBreakpointDisabled": "#AD00A1",
+		"MarkBreakpointReached": "#ABA800",
+		"MarkError": "#FF0086",
+		"MarkExecution": "#1FAAAA",
+		"MarkWarning": "#FD8900",
+		"ModifiedLines": "#FD8900",
+		"ReplaceHighlight": "#00C918",
+		"SavedLines": "#00C918",
+		"SearchHighlight": "#ABA800",
+		"Separator": "#B0B0B0",
+		"SpellChecking": "#FF0086",
+		"TabMarker": "#B0B0B0",
+		"TemplateBackground": "#E0E0E0",
+		"TemplateFocusedPlaceholder": "#00C918",
+		"TemplatePlaceholder": "#00C918",
+		"TemplateReadOnlyPlaceholder": "#FF0086",
+		"TextSelection": "#D0D0D0",
+		"WordWrapMarker": "#B0B0B0"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#FF0086",
+			"bold": true,
+			"selected-text-color": "#202020",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#101010",
+			"text-color": "#000000"
+		},
+		"Attribute": {
+			"selected-text-color": "#202020",
+			"text-color": "#3777E6"
+		},
+		"BaseN": {
+			"selected-text-color": "#202020",
+			"text-color": "#FD8900"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#3777E6",
+			"text-color": "#3777E6"
+		},
+		"Char": {
+			"selected-text-color": "#151515",
+			"text-color": "#1FAAAA"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#202020",
+			"text-color": "#B0B0B0"
+		},
+		"CommentVar": {
+			"selected-text-color": "#1FAAAA",
+			"text-color": "#1FAAAA"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#FD8900",
+			"text-color": "#FD8900"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#202020",
+			"text-color": "#FD8900"
+		},
+		"DataType": {
+			"selected-text-color": "#202020",
+			"text-color": "#ABA800"
+		},
+		"DecVal": {
+			"selected-text-color": "#202020",
+			"text-color": "#FD8900"
+		},
+		"Documentation": {
+			"selected-text-color": "#FF0086",
+			"text-color": "#FF0086"
+		},
+		"Error": {
+			"selected-text-color": "#FF0086",
+			"text-color": "#FF0086",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#3777E6",
+			"text-color": "#3777E6"
+		},
+		"Float": {
+			"selected-text-color": "#202020",
+			"text-color": "#FD8900"
+		},
+		"Function": {
+			"selected-text-color": "#202020",
+			"text-color": "#3777E6"
+		},
+		"Import": {
+			"selected-text-color": "#CC6633",
+			"text-color": "#CC6633"
+		},
+		"Information": {
+			"selected-text-color": "#1FAAAA",
+			"text-color": "#1FAAAA"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#202020",
+			"text-color": "#AD00A1"
+		},
+		"Normal": {
+			"selected-text-color": "#202020",
+			"text-color": "#101010"
+		},
+		"Operator": {
+			"selected-text-color": "#202020",
+			"text-color": "#101010"
+		},
+		"Others": {
+			"selected-text-color": "#202020",
+			"text-color": "#ABA800"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#00C918",
+			"text-color": "#00C918"
+		},
+		"RegionMarker": {
+			"background-color": "#000000",
+			"selected-text-color": "#202020",
+			"text-color": "#202020"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#151515",
+			"text-color": "#1FAAAA"
+		},
+		"SpecialString": {
+			"selected-text-color": "#CC6633",
+			"text-color": "#CC6633"
+		},
+		"String": {
+			"selected-text-color": "#202020",
+			"text-color": "#00C918"
+		},
+		"Variable": {
+			"selected-text-color": "#FF0086",
+			"text-color": "#FF0086"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#00C918",
+			"text-color": "#00C918"
+		},
+		"Warning": {
+			"selected-text-color": "#ABA800",
+			"text-color": "#ABA800"
+		}
+	}
+}

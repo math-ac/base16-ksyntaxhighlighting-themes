@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)"],
+		"name": "Base16 Gruvbox light, soft",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#f2e5bc",
+		"BracketMatching": "#bdae93",
+		"CodeFolding": "#d5c4a1",
+		"CurrentLine": "#ebdbb2",
+		"CurrentLineNumber": "#665c54",
+		"IconBorder": "#ebdbb2",
+		"IndentationLine": "#bdae93",
+		"LineNumbers": "#bdae93",
+		"MarkBookmark": "#076678",
+		"MarkBreakpointActive": "#9d0006",
+		"MarkBreakpointDisabled": "#8f3f71",
+		"MarkBreakpointReached": "#b57614",
+		"MarkError": "#9d0006",
+		"MarkExecution": "#427b58",
+		"MarkWarning": "#af3a03",
+		"ModifiedLines": "#af3a03",
+		"ReplaceHighlight": "#79740e",
+		"SavedLines": "#79740e",
+		"SearchHighlight": "#b57614",
+		"Separator": "#bdae93",
+		"SpellChecking": "#9d0006",
+		"TabMarker": "#bdae93",
+		"TemplateBackground": "#ebdbb2",
+		"TemplateFocusedPlaceholder": "#79740e",
+		"TemplatePlaceholder": "#79740e",
+		"TemplateReadOnlyPlaceholder": "#9d0006",
+		"TextSelection": "#d5c4a1",
+		"WordWrapMarker": "#bdae93"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#9d0006",
+			"bold": true,
+			"selected-text-color": "#282828",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#504945",
+			"text-color": "#665c54"
+		},
+		"Attribute": {
+			"selected-text-color": "#282828",
+			"text-color": "#076678"
+		},
+		"BaseN": {
+			"selected-text-color": "#282828",
+			"text-color": "#af3a03"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#076678",
+			"text-color": "#076678"
+		},
+		"Char": {
+			"selected-text-color": "#3c3836",
+			"text-color": "#427b58"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#282828",
+			"text-color": "#bdae93"
+		},
+		"CommentVar": {
+			"selected-text-color": "#427b58",
+			"text-color": "#427b58"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#af3a03",
+			"text-color": "#af3a03"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#282828",
+			"text-color": "#af3a03"
+		},
+		"DataType": {
+			"selected-text-color": "#282828",
+			"text-color": "#b57614"
+		},
+		"DecVal": {
+			"selected-text-color": "#282828",
+			"text-color": "#af3a03"
+		},
+		"Documentation": {
+			"selected-text-color": "#9d0006",
+			"text-color": "#9d0006"
+		},
+		"Error": {
+			"selected-text-color": "#9d0006",
+			"text-color": "#9d0006",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#076678",
+			"text-color": "#076678"
+		},
+		"Float": {
+			"selected-text-color": "#282828",
+			"text-color": "#af3a03"
+		},
+		"Function": {
+			"selected-text-color": "#282828",
+			"text-color": "#076678"
+		},
+		"Import": {
+			"selected-text-color": "#d65d0e",
+			"text-color": "#d65d0e"
+		},
+		"Information": {
+			"selected-text-color": "#427b58",
+			"text-color": "#427b58"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#282828",
+			"text-color": "#8f3f71"
+		},
+		"Normal": {
+			"selected-text-color": "#282828",
+			"text-color": "#504945"
+		},
+		"Operator": {
+			"selected-text-color": "#282828",
+			"text-color": "#504945"
+		},
+		"Others": {
+			"selected-text-color": "#282828",
+			"text-color": "#b57614"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#79740e",
+			"text-color": "#79740e"
+		},
+		"RegionMarker": {
+			"background-color": "#665c54",
+			"selected-text-color": "#282828",
+			"text-color": "#282828"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#3c3836",
+			"text-color": "#427b58"
+		},
+		"SpecialString": {
+			"selected-text-color": "#d65d0e",
+			"text-color": "#d65d0e"
+		},
+		"String": {
+			"selected-text-color": "#282828",
+			"text-color": "#79740e"
+		},
+		"Variable": {
+			"selected-text-color": "#9d0006",
+			"text-color": "#9d0006"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#79740e",
+			"text-color": "#79740e"
+		},
+		"Warning": {
+			"selected-text-color": "#b57614",
+			"text-color": "#b57614"
+		}
+	}
+}

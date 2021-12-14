@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Carter Veldhuizen"],
+		"name": "Base16 Sagelight",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#f8f8f8",
+		"BracketMatching": "#b8b8b8",
+		"CodeFolding": "#d8d8d8",
+		"CurrentLine": "#e8e8e8",
+		"CurrentLineNumber": "#585858",
+		"IconBorder": "#e8e8e8",
+		"IndentationLine": "#b8b8b8",
+		"LineNumbers": "#b8b8b8",
+		"MarkBookmark": "#a0a7d2",
+		"MarkBreakpointActive": "#fa8480",
+		"MarkBreakpointDisabled": "#c8a0d2",
+		"MarkBreakpointReached": "#ffdc61",
+		"MarkError": "#fa8480",
+		"MarkExecution": "#a2d6f5",
+		"MarkWarning": "#ffaa61",
+		"ModifiedLines": "#ffaa61",
+		"ReplaceHighlight": "#a0d2c8",
+		"SavedLines": "#a0d2c8",
+		"SearchHighlight": "#ffdc61",
+		"Separator": "#b8b8b8",
+		"SpellChecking": "#fa8480",
+		"TabMarker": "#b8b8b8",
+		"TemplateBackground": "#e8e8e8",
+		"TemplateFocusedPlaceholder": "#a0d2c8",
+		"TemplatePlaceholder": "#a0d2c8",
+		"TemplateReadOnlyPlaceholder": "#fa8480",
+		"TextSelection": "#d8d8d8",
+		"WordWrapMarker": "#b8b8b8"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#fa8480",
+			"bold": true,
+			"selected-text-color": "#181818",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#383838",
+			"text-color": "#585858"
+		},
+		"Attribute": {
+			"selected-text-color": "#181818",
+			"text-color": "#a0a7d2"
+		},
+		"BaseN": {
+			"selected-text-color": "#181818",
+			"text-color": "#ffaa61"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#a0a7d2",
+			"text-color": "#a0a7d2"
+		},
+		"Char": {
+			"selected-text-color": "#282828",
+			"text-color": "#a2d6f5"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#181818",
+			"text-color": "#b8b8b8"
+		},
+		"CommentVar": {
+			"selected-text-color": "#a2d6f5",
+			"text-color": "#a2d6f5"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#ffaa61",
+			"text-color": "#ffaa61"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#181818",
+			"text-color": "#ffaa61"
+		},
+		"DataType": {
+			"selected-text-color": "#181818",
+			"text-color": "#ffdc61"
+		},
+		"DecVal": {
+			"selected-text-color": "#181818",
+			"text-color": "#ffaa61"
+		},
+		"Documentation": {
+			"selected-text-color": "#fa8480",
+			"text-color": "#fa8480"
+		},
+		"Error": {
+			"selected-text-color": "#fa8480",
+			"text-color": "#fa8480",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#a0a7d2",
+			"text-color": "#a0a7d2"
+		},
+		"Float": {
+			"selected-text-color": "#181818",
+			"text-color": "#ffaa61"
+		},
+		"Function": {
+			"selected-text-color": "#181818",
+			"text-color": "#a0a7d2"
+		},
+		"Import": {
+			"selected-text-color": "#d2b2a0",
+			"text-color": "#d2b2a0"
+		},
+		"Information": {
+			"selected-text-color": "#a2d6f5",
+			"text-color": "#a2d6f5"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#181818",
+			"text-color": "#c8a0d2"
+		},
+		"Normal": {
+			"selected-text-color": "#181818",
+			"text-color": "#383838"
+		},
+		"Operator": {
+			"selected-text-color": "#181818",
+			"text-color": "#383838"
+		},
+		"Others": {
+			"selected-text-color": "#181818",
+			"text-color": "#ffdc61"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#a0d2c8",
+			"text-color": "#a0d2c8"
+		},
+		"RegionMarker": {
+			"background-color": "#585858",
+			"selected-text-color": "#181818",
+			"text-color": "#181818"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#282828",
+			"text-color": "#a2d6f5"
+		},
+		"SpecialString": {
+			"selected-text-color": "#d2b2a0",
+			"text-color": "#d2b2a0"
+		},
+		"String": {
+			"selected-text-color": "#181818",
+			"text-color": "#a0d2c8"
+		},
+		"Variable": {
+			"selected-text-color": "#fa8480",
+			"text-color": "#fa8480"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#a0d2c8",
+			"text-color": "#a0d2c8"
+		},
+		"Warning": {
+			"selected-text-color": "#ffdc61",
+			"text-color": "#ffdc61"
+		}
+	}
+}

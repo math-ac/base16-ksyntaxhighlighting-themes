@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)"],
+		"name": "Base16 Espresso",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#2d2d2d",
+		"BracketMatching": "#777777",
+		"CodeFolding": "#515151",
+		"CurrentLine": "#393939",
+		"CurrentLineNumber": "#b4b7b4",
+		"IconBorder": "#393939",
+		"IndentationLine": "#777777",
+		"LineNumbers": "#777777",
+		"MarkBookmark": "#6c99bb",
+		"MarkBreakpointActive": "#d25252",
+		"MarkBreakpointDisabled": "#d197d9",
+		"MarkBreakpointReached": "#ffc66d",
+		"MarkError": "#d25252",
+		"MarkExecution": "#bed6ff",
+		"MarkWarning": "#f9a959",
+		"ModifiedLines": "#f9a959",
+		"ReplaceHighlight": "#a5c261",
+		"SavedLines": "#a5c261",
+		"SearchHighlight": "#ffc66d",
+		"Separator": "#777777",
+		"SpellChecking": "#d25252",
+		"TabMarker": "#777777",
+		"TemplateBackground": "#393939",
+		"TemplateFocusedPlaceholder": "#a5c261",
+		"TemplatePlaceholder": "#a5c261",
+		"TemplateReadOnlyPlaceholder": "#d25252",
+		"TextSelection": "#515151",
+		"WordWrapMarker": "#777777"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#d25252",
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#cccccc",
+			"text-color": "#b4b7b4"
+		},
+		"Attribute": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#6c99bb"
+		},
+		"BaseN": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#f9a959"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#6c99bb",
+			"text-color": "#6c99bb"
+		},
+		"Char": {
+			"selected-text-color": "#e0e0e0",
+			"text-color": "#bed6ff"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#777777"
+		},
+		"CommentVar": {
+			"selected-text-color": "#bed6ff",
+			"text-color": "#bed6ff"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#f9a959",
+			"text-color": "#f9a959"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#f9a959"
+		},
+		"DataType": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#ffc66d"
+		},
+		"DecVal": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#f9a959"
+		},
+		"Documentation": {
+			"selected-text-color": "#d25252",
+			"text-color": "#d25252"
+		},
+		"Error": {
+			"selected-text-color": "#d25252",
+			"text-color": "#d25252",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#6c99bb",
+			"text-color": "#6c99bb"
+		},
+		"Float": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#f9a959"
+		},
+		"Function": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#6c99bb"
+		},
+		"Import": {
+			"selected-text-color": "#f97394",
+			"text-color": "#f97394"
+		},
+		"Information": {
+			"selected-text-color": "#bed6ff",
+			"text-color": "#bed6ff"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#d197d9"
+		},
+		"Normal": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#cccccc"
+		},
+		"Operator": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#cccccc"
+		},
+		"Others": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#ffc66d"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#a5c261",
+			"text-color": "#a5c261"
+		},
+		"RegionMarker": {
+			"background-color": "#b4b7b4",
+			"selected-text-color": "#ffffff",
+			"text-color": "#ffffff"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#e0e0e0",
+			"text-color": "#bed6ff"
+		},
+		"SpecialString": {
+			"selected-text-color": "#f97394",
+			"text-color": "#f97394"
+		},
+		"String": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#a5c261"
+		},
+		"Variable": {
+			"selected-text-color": "#d25252",
+			"text-color": "#d25252"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#a5c261",
+			"text-color": "#a5c261"
+		},
+		"Warning": {
+			"selected-text-color": "#ffc66d",
+			"text-color": "#ffc66d"
+		}
+	}
+}

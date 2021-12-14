@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Michaël Ball (http://github.com/michael-ball/)"],
+		"name": "Base16 Synth Midnight Terminal Light",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#dddfe0",
+		"BracketMatching": "#a3a5a6",
+		"CodeFolding": "#c1c3c4",
+		"CurrentLine": "#cfd1d2",
+		"CurrentLineNumber": "#474849",
+		"IconBorder": "#cfd1d2",
+		"IndentationLine": "#a3a5a6",
+		"LineNumbers": "#a3a5a6",
+		"MarkBookmark": "#03aeff",
+		"MarkBreakpointActive": "#b53b50",
+		"MarkBreakpointDisabled": "#ea5ce2",
+		"MarkBreakpointReached": "#c9d364",
+		"MarkError": "#b53b50",
+		"MarkExecution": "#42fff9",
+		"MarkWarning": "#ea770d",
+		"ModifiedLines": "#ea770d",
+		"ReplaceHighlight": "#06ea61",
+		"SavedLines": "#06ea61",
+		"SearchHighlight": "#c9d364",
+		"Separator": "#a3a5a6",
+		"SpellChecking": "#b53b50",
+		"TabMarker": "#a3a5a6",
+		"TemplateBackground": "#cfd1d2",
+		"TemplateFocusedPlaceholder": "#06ea61",
+		"TemplatePlaceholder": "#06ea61",
+		"TemplateReadOnlyPlaceholder": "#b53b50",
+		"TextSelection": "#c1c3c4",
+		"WordWrapMarker": "#a3a5a6"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#b53b50",
+			"bold": true,
+			"selected-text-color": "#050608",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#28292a",
+			"text-color": "#474849"
+		},
+		"Attribute": {
+			"selected-text-color": "#050608",
+			"text-color": "#03aeff"
+		},
+		"BaseN": {
+			"selected-text-color": "#050608",
+			"text-color": "#ea770d"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#03aeff",
+			"text-color": "#03aeff"
+		},
+		"Char": {
+			"selected-text-color": "#1a1b1c",
+			"text-color": "#42fff9"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#050608",
+			"text-color": "#a3a5a6"
+		},
+		"CommentVar": {
+			"selected-text-color": "#42fff9",
+			"text-color": "#42fff9"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#ea770d",
+			"text-color": "#ea770d"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#050608",
+			"text-color": "#ea770d"
+		},
+		"DataType": {
+			"selected-text-color": "#050608",
+			"text-color": "#c9d364"
+		},
+		"DecVal": {
+			"selected-text-color": "#050608",
+			"text-color": "#ea770d"
+		},
+		"Documentation": {
+			"selected-text-color": "#b53b50",
+			"text-color": "#b53b50"
+		},
+		"Error": {
+			"selected-text-color": "#b53b50",
+			"text-color": "#b53b50",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#03aeff",
+			"text-color": "#03aeff"
+		},
+		"Float": {
+			"selected-text-color": "#050608",
+			"text-color": "#ea770d"
+		},
+		"Function": {
+			"selected-text-color": "#050608",
+			"text-color": "#03aeff"
+		},
+		"Import": {
+			"selected-text-color": "#cd6320",
+			"text-color": "#cd6320"
+		},
+		"Information": {
+			"selected-text-color": "#42fff9",
+			"text-color": "#42fff9"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#050608",
+			"text-color": "#ea5ce2"
+		},
+		"Normal": {
+			"selected-text-color": "#050608",
+			"text-color": "#28292a"
+		},
+		"Operator": {
+			"selected-text-color": "#050608",
+			"text-color": "#28292a"
+		},
+		"Others": {
+			"selected-text-color": "#050608",
+			"text-color": "#c9d364"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#06ea61",
+			"text-color": "#06ea61"
+		},
+		"RegionMarker": {
+			"background-color": "#474849",
+			"selected-text-color": "#050608",
+			"text-color": "#050608"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#1a1b1c",
+			"text-color": "#42fff9"
+		},
+		"SpecialString": {
+			"selected-text-color": "#cd6320",
+			"text-color": "#cd6320"
+		},
+		"String": {
+			"selected-text-color": "#050608",
+			"text-color": "#06ea61"
+		},
+		"Variable": {
+			"selected-text-color": "#b53b50",
+			"text-color": "#b53b50"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#06ea61",
+			"text-color": "#06ea61"
+		},
+		"Warning": {
+			"selected-text-color": "#c9d364",
+			"text-color": "#c9d364"
+		}
+	}
+}

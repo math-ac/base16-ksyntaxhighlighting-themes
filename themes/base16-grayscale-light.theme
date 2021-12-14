@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Alexandre Gavioli (https://github.com/Alexx2/)"],
+		"name": "Base16 Grayscale Light",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#f7f7f7",
+		"BracketMatching": "#ababab",
+		"CodeFolding": "#b9b9b9",
+		"CurrentLine": "#e3e3e3",
+		"CurrentLineNumber": "#525252",
+		"IconBorder": "#e3e3e3",
+		"IndentationLine": "#ababab",
+		"LineNumbers": "#ababab",
+		"MarkBookmark": "#686868",
+		"MarkBreakpointActive": "#7c7c7c",
+		"MarkBreakpointDisabled": "#747474",
+		"MarkBreakpointReached": "#a0a0a0",
+		"MarkError": "#7c7c7c",
+		"MarkExecution": "#868686",
+		"MarkWarning": "#999999",
+		"ModifiedLines": "#999999",
+		"ReplaceHighlight": "#8e8e8e",
+		"SavedLines": "#8e8e8e",
+		"SearchHighlight": "#a0a0a0",
+		"Separator": "#ababab",
+		"SpellChecking": "#7c7c7c",
+		"TabMarker": "#ababab",
+		"TemplateBackground": "#e3e3e3",
+		"TemplateFocusedPlaceholder": "#8e8e8e",
+		"TemplatePlaceholder": "#8e8e8e",
+		"TemplateReadOnlyPlaceholder": "#7c7c7c",
+		"TextSelection": "#b9b9b9",
+		"WordWrapMarker": "#ababab"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#7c7c7c",
+			"bold": true,
+			"selected-text-color": "#101010",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#464646",
+			"text-color": "#525252"
+		},
+		"Attribute": {
+			"selected-text-color": "#101010",
+			"text-color": "#686868"
+		},
+		"BaseN": {
+			"selected-text-color": "#101010",
+			"text-color": "#999999"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#686868",
+			"text-color": "#686868"
+		},
+		"Char": {
+			"selected-text-color": "#252525",
+			"text-color": "#868686"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#101010",
+			"text-color": "#ababab"
+		},
+		"CommentVar": {
+			"selected-text-color": "#868686",
+			"text-color": "#868686"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#999999",
+			"text-color": "#999999"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#101010",
+			"text-color": "#999999"
+		},
+		"DataType": {
+			"selected-text-color": "#101010",
+			"text-color": "#a0a0a0"
+		},
+		"DecVal": {
+			"selected-text-color": "#101010",
+			"text-color": "#999999"
+		},
+		"Documentation": {
+			"selected-text-color": "#7c7c7c",
+			"text-color": "#7c7c7c"
+		},
+		"Error": {
+			"selected-text-color": "#7c7c7c",
+			"text-color": "#7c7c7c",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#686868",
+			"text-color": "#686868"
+		},
+		"Float": {
+			"selected-text-color": "#101010",
+			"text-color": "#999999"
+		},
+		"Function": {
+			"selected-text-color": "#101010",
+			"text-color": "#686868"
+		},
+		"Import": {
+			"selected-text-color": "#5e5e5e",
+			"text-color": "#5e5e5e"
+		},
+		"Information": {
+			"selected-text-color": "#868686",
+			"text-color": "#868686"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#101010",
+			"text-color": "#747474"
+		},
+		"Normal": {
+			"selected-text-color": "#101010",
+			"text-color": "#464646"
+		},
+		"Operator": {
+			"selected-text-color": "#101010",
+			"text-color": "#464646"
+		},
+		"Others": {
+			"selected-text-color": "#101010",
+			"text-color": "#a0a0a0"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#8e8e8e",
+			"text-color": "#8e8e8e"
+		},
+		"RegionMarker": {
+			"background-color": "#525252",
+			"selected-text-color": "#101010",
+			"text-color": "#101010"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#252525",
+			"text-color": "#868686"
+		},
+		"SpecialString": {
+			"selected-text-color": "#5e5e5e",
+			"text-color": "#5e5e5e"
+		},
+		"String": {
+			"selected-text-color": "#101010",
+			"text-color": "#8e8e8e"
+		},
+		"Variable": {
+			"selected-text-color": "#7c7c7c",
+			"text-color": "#7c7c7c"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#8e8e8e",
+			"text-color": "#8e8e8e"
+		},
+		"Warning": {
+			"selected-text-color": "#a0a0a0",
+			"text-color": "#a0a0a0"
+		}
+	}
+}

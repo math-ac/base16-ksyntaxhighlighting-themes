@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Mishka Nguyen (https://github.com/akhsiM)"],
+		"name": "Base16 Kimber",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#222222",
+		"BracketMatching": "#644646",
+		"CodeFolding": "#555D55",
+		"CurrentLine": "#313131",
+		"CurrentLineNumber": "#5A5A5A",
+		"IconBorder": "#313131",
+		"IndentationLine": "#644646",
+		"LineNumbers": "#644646",
+		"MarkBookmark": "#537C9C",
+		"MarkBreakpointActive": "#C88C8C",
+		"MarkBreakpointDisabled": "#86CACD",
+		"MarkBreakpointReached": "#D8B56D",
+		"MarkError": "#C88C8C",
+		"MarkExecution": "#78B4B4",
+		"MarkWarning": "#476C88",
+		"ModifiedLines": "#476C88",
+		"ReplaceHighlight": "#99C899",
+		"SavedLines": "#99C899",
+		"SearchHighlight": "#D8B56D",
+		"Separator": "#644646",
+		"SpellChecking": "#C88C8C",
+		"TabMarker": "#644646",
+		"TemplateBackground": "#313131",
+		"TemplateFocusedPlaceholder": "#99C899",
+		"TemplatePlaceholder": "#99C899",
+		"TemplateReadOnlyPlaceholder": "#C88C8C",
+		"TextSelection": "#555D55",
+		"WordWrapMarker": "#644646"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#C88C8C",
+			"bold": true,
+			"selected-text-color": "#FFFFE6",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#DEDEE7",
+			"text-color": "#5A5A5A"
+		},
+		"Attribute": {
+			"selected-text-color": "#FFFFE6",
+			"text-color": "#537C9C"
+		},
+		"BaseN": {
+			"selected-text-color": "#FFFFE6",
+			"text-color": "#476C88"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#537C9C",
+			"text-color": "#537C9C"
+		},
+		"Char": {
+			"selected-text-color": "#C3C3B4",
+			"text-color": "#78B4B4"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#FFFFE6",
+			"text-color": "#644646"
+		},
+		"CommentVar": {
+			"selected-text-color": "#78B4B4",
+			"text-color": "#78B4B4"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#476C88",
+			"text-color": "#476C88"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#FFFFE6",
+			"text-color": "#476C88"
+		},
+		"DataType": {
+			"selected-text-color": "#FFFFE6",
+			"text-color": "#D8B56D"
+		},
+		"DecVal": {
+			"selected-text-color": "#FFFFE6",
+			"text-color": "#476C88"
+		},
+		"Documentation": {
+			"selected-text-color": "#C88C8C",
+			"text-color": "#C88C8C"
+		},
+		"Error": {
+			"selected-text-color": "#C88C8C",
+			"text-color": "#C88C8C",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#537C9C",
+			"text-color": "#537C9C"
+		},
+		"Float": {
+			"selected-text-color": "#FFFFE6",
+			"text-color": "#476C88"
+		},
+		"Function": {
+			"selected-text-color": "#FFFFE6",
+			"text-color": "#537C9C"
+		},
+		"Import": {
+			"selected-text-color": "#704F4F",
+			"text-color": "#704F4F"
+		},
+		"Information": {
+			"selected-text-color": "#78B4B4",
+			"text-color": "#78B4B4"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#FFFFE6",
+			"text-color": "#86CACD"
+		},
+		"Normal": {
+			"selected-text-color": "#FFFFE6",
+			"text-color": "#DEDEE7"
+		},
+		"Operator": {
+			"selected-text-color": "#FFFFE6",
+			"text-color": "#DEDEE7"
+		},
+		"Others": {
+			"selected-text-color": "#FFFFE6",
+			"text-color": "#D8B56D"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#99C899",
+			"text-color": "#99C899"
+		},
+		"RegionMarker": {
+			"background-color": "#5A5A5A",
+			"selected-text-color": "#FFFFE6",
+			"text-color": "#FFFFE6"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#C3C3B4",
+			"text-color": "#78B4B4"
+		},
+		"SpecialString": {
+			"selected-text-color": "#704F4F",
+			"text-color": "#704F4F"
+		},
+		"String": {
+			"selected-text-color": "#FFFFE6",
+			"text-color": "#99C899"
+		},
+		"Variable": {
+			"selected-text-color": "#C88C8C",
+			"text-color": "#C88C8C"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#99C899",
+			"text-color": "#99C899"
+		},
+		"Warning": {
+			"selected-text-color": "#D8B56D",
+			"text-color": "#D8B56D"
+		}
+	}
+}

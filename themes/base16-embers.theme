@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Jannik Siebert (https://github.com/janniks)"],
+		"name": "Base16 Embers",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#16130F",
+		"BracketMatching": "#5A5047",
+		"CodeFolding": "#433B32",
+		"CurrentLine": "#2C2620",
+		"CurrentLineNumber": "#8A8075",
+		"IconBorder": "#2C2620",
+		"IndentationLine": "#5A5047",
+		"LineNumbers": "#5A5047",
+		"MarkBookmark": "#6D5782",
+		"MarkBreakpointActive": "#826D57",
+		"MarkBreakpointDisabled": "#82576D",
+		"MarkBreakpointReached": "#6D8257",
+		"MarkError": "#826D57",
+		"MarkExecution": "#576D82",
+		"MarkWarning": "#828257",
+		"ModifiedLines": "#828257",
+		"ReplaceHighlight": "#57826D",
+		"SavedLines": "#57826D",
+		"SearchHighlight": "#6D8257",
+		"Separator": "#5A5047",
+		"SpellChecking": "#826D57",
+		"TabMarker": "#5A5047",
+		"TemplateBackground": "#2C2620",
+		"TemplateFocusedPlaceholder": "#57826D",
+		"TemplatePlaceholder": "#57826D",
+		"TemplateReadOnlyPlaceholder": "#826D57",
+		"TextSelection": "#433B32",
+		"WordWrapMarker": "#5A5047"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#826D57",
+			"bold": true,
+			"selected-text-color": "#DBD6D1",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#A39A90",
+			"text-color": "#8A8075"
+		},
+		"Attribute": {
+			"selected-text-color": "#DBD6D1",
+			"text-color": "#6D5782"
+		},
+		"BaseN": {
+			"selected-text-color": "#DBD6D1",
+			"text-color": "#828257"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#6D5782",
+			"text-color": "#6D5782"
+		},
+		"Char": {
+			"selected-text-color": "#BEB6AE",
+			"text-color": "#576D82"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#DBD6D1",
+			"text-color": "#5A5047"
+		},
+		"CommentVar": {
+			"selected-text-color": "#576D82",
+			"text-color": "#576D82"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#828257",
+			"text-color": "#828257"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#DBD6D1",
+			"text-color": "#828257"
+		},
+		"DataType": {
+			"selected-text-color": "#DBD6D1",
+			"text-color": "#6D8257"
+		},
+		"DecVal": {
+			"selected-text-color": "#DBD6D1",
+			"text-color": "#828257"
+		},
+		"Documentation": {
+			"selected-text-color": "#826D57",
+			"text-color": "#826D57"
+		},
+		"Error": {
+			"selected-text-color": "#826D57",
+			"text-color": "#826D57",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#6D5782",
+			"text-color": "#6D5782"
+		},
+		"Float": {
+			"selected-text-color": "#DBD6D1",
+			"text-color": "#828257"
+		},
+		"Function": {
+			"selected-text-color": "#DBD6D1",
+			"text-color": "#6D5782"
+		},
+		"Import": {
+			"selected-text-color": "#825757",
+			"text-color": "#825757"
+		},
+		"Information": {
+			"selected-text-color": "#576D82",
+			"text-color": "#576D82"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#DBD6D1",
+			"text-color": "#82576D"
+		},
+		"Normal": {
+			"selected-text-color": "#DBD6D1",
+			"text-color": "#A39A90"
+		},
+		"Operator": {
+			"selected-text-color": "#DBD6D1",
+			"text-color": "#A39A90"
+		},
+		"Others": {
+			"selected-text-color": "#DBD6D1",
+			"text-color": "#6D8257"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#57826D",
+			"text-color": "#57826D"
+		},
+		"RegionMarker": {
+			"background-color": "#8A8075",
+			"selected-text-color": "#DBD6D1",
+			"text-color": "#DBD6D1"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#BEB6AE",
+			"text-color": "#576D82"
+		},
+		"SpecialString": {
+			"selected-text-color": "#825757",
+			"text-color": "#825757"
+		},
+		"String": {
+			"selected-text-color": "#DBD6D1",
+			"text-color": "#57826D"
+		},
+		"Variable": {
+			"selected-text-color": "#826D57",
+			"text-color": "#826D57"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#57826D",
+			"text-color": "#57826D"
+		},
+		"Warning": {
+			"selected-text-color": "#6D8257",
+			"text-color": "#6D8257"
+		}
+	}
+}

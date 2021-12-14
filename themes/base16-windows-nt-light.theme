@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Fergus Collins (https://github.com/C-Fergus)"],
+		"name": "Base16 Windows NT Light",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#ffffff",
+		"BracketMatching": "#c0c0c0",
+		"CodeFolding": "#d5d5d5",
+		"CurrentLine": "#eaeaea",
+		"CurrentLineNumber": "#a0a0a0",
+		"IconBorder": "#eaeaea",
+		"IndentationLine": "#c0c0c0",
+		"LineNumbers": "#c0c0c0",
+		"MarkBookmark": "#000080",
+		"MarkBreakpointActive": "#800000",
+		"MarkBreakpointDisabled": "#800080",
+		"MarkBreakpointReached": "#808000",
+		"MarkError": "#800000",
+		"MarkExecution": "#008080",
+		"MarkWarning": "#ffff00",
+		"ModifiedLines": "#ffff00",
+		"ReplaceHighlight": "#008000",
+		"SavedLines": "#008000",
+		"SearchHighlight": "#808000",
+		"Separator": "#c0c0c0",
+		"SpellChecking": "#800000",
+		"TabMarker": "#c0c0c0",
+		"TemplateBackground": "#eaeaea",
+		"TemplateFocusedPlaceholder": "#008000",
+		"TemplatePlaceholder": "#008000",
+		"TemplateReadOnlyPlaceholder": "#800000",
+		"TextSelection": "#d5d5d5",
+		"WordWrapMarker": "#c0c0c0"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#800000",
+			"bold": true,
+			"selected-text-color": "#000000",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#808080",
+			"text-color": "#a0a0a0"
+		},
+		"Attribute": {
+			"selected-text-color": "#000000",
+			"text-color": "#000080"
+		},
+		"BaseN": {
+			"selected-text-color": "#000000",
+			"text-color": "#ffff00"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#000080",
+			"text-color": "#000080"
+		},
+		"Char": {
+			"selected-text-color": "#404040",
+			"text-color": "#008080"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#000000",
+			"text-color": "#c0c0c0"
+		},
+		"CommentVar": {
+			"selected-text-color": "#008080",
+			"text-color": "#008080"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#ffff00",
+			"text-color": "#ffff00"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#000000",
+			"text-color": "#ffff00"
+		},
+		"DataType": {
+			"selected-text-color": "#000000",
+			"text-color": "#808000"
+		},
+		"DecVal": {
+			"selected-text-color": "#000000",
+			"text-color": "#ffff00"
+		},
+		"Documentation": {
+			"selected-text-color": "#800000",
+			"text-color": "#800000"
+		},
+		"Error": {
+			"selected-text-color": "#800000",
+			"text-color": "#800000",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#000080",
+			"text-color": "#000080"
+		},
+		"Float": {
+			"selected-text-color": "#000000",
+			"text-color": "#ffff00"
+		},
+		"Function": {
+			"selected-text-color": "#000000",
+			"text-color": "#000080"
+		},
+		"Import": {
+			"selected-text-color": "#00ff00",
+			"text-color": "#00ff00"
+		},
+		"Information": {
+			"selected-text-color": "#008080",
+			"text-color": "#008080"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#000000",
+			"text-color": "#800080"
+		},
+		"Normal": {
+			"selected-text-color": "#000000",
+			"text-color": "#808080"
+		},
+		"Operator": {
+			"selected-text-color": "#000000",
+			"text-color": "#808080"
+		},
+		"Others": {
+			"selected-text-color": "#000000",
+			"text-color": "#808000"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#008000",
+			"text-color": "#008000"
+		},
+		"RegionMarker": {
+			"background-color": "#a0a0a0",
+			"selected-text-color": "#000000",
+			"text-color": "#000000"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#404040",
+			"text-color": "#008080"
+		},
+		"SpecialString": {
+			"selected-text-color": "#00ff00",
+			"text-color": "#00ff00"
+		},
+		"String": {
+			"selected-text-color": "#000000",
+			"text-color": "#008000"
+		},
+		"Variable": {
+			"selected-text-color": "#800000",
+			"text-color": "#800000"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#008000",
+			"text-color": "#008000"
+		},
+		"Warning": {
+			"selected-text-color": "#808000",
+			"text-color": "#808000"
+		}
+	}
+}

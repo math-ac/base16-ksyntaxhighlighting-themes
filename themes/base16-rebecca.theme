@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)"],
+		"name": "Base16 Rebecca",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#292a44",
+		"BracketMatching": "#666699",
+		"CodeFolding": "#383a62",
+		"CurrentLine": "#663399",
+		"CurrentLineNumber": "#a0a0c5",
+		"IconBorder": "#663399",
+		"IndentationLine": "#666699",
+		"LineNumbers": "#666699",
+		"MarkBookmark": "#2de0a7",
+		"MarkBreakpointActive": "#a0a0c5",
+		"MarkBreakpointDisabled": "#7aa5ff",
+		"MarkBreakpointReached": "#ae81ff",
+		"MarkError": "#a0a0c5",
+		"MarkExecution": "#8eaee0",
+		"MarkWarning": "#efe4a1",
+		"ModifiedLines": "#efe4a1",
+		"ReplaceHighlight": "#6dfedf",
+		"SavedLines": "#6dfedf",
+		"SearchHighlight": "#ae81ff",
+		"Separator": "#666699",
+		"SpellChecking": "#a0a0c5",
+		"TabMarker": "#666699",
+		"TemplateBackground": "#663399",
+		"TemplateFocusedPlaceholder": "#6dfedf",
+		"TemplatePlaceholder": "#6dfedf",
+		"TemplateReadOnlyPlaceholder": "#a0a0c5",
+		"TextSelection": "#383a62",
+		"WordWrapMarker": "#666699"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#a0a0c5",
+			"bold": true,
+			"selected-text-color": "#53495d",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#f1eff8",
+			"text-color": "#a0a0c5"
+		},
+		"Attribute": {
+			"selected-text-color": "#53495d",
+			"text-color": "#2de0a7"
+		},
+		"BaseN": {
+			"selected-text-color": "#53495d",
+			"text-color": "#efe4a1"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#2de0a7",
+			"text-color": "#2de0a7"
+		},
+		"Char": {
+			"selected-text-color": "#ccccff",
+			"text-color": "#8eaee0"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#53495d",
+			"text-color": "#666699"
+		},
+		"CommentVar": {
+			"selected-text-color": "#8eaee0",
+			"text-color": "#8eaee0"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#efe4a1",
+			"text-color": "#efe4a1"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#53495d",
+			"text-color": "#efe4a1"
+		},
+		"DataType": {
+			"selected-text-color": "#53495d",
+			"text-color": "#ae81ff"
+		},
+		"DecVal": {
+			"selected-text-color": "#53495d",
+			"text-color": "#efe4a1"
+		},
+		"Documentation": {
+			"selected-text-color": "#a0a0c5",
+			"text-color": "#a0a0c5"
+		},
+		"Error": {
+			"selected-text-color": "#a0a0c5",
+			"text-color": "#a0a0c5",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#2de0a7",
+			"text-color": "#2de0a7"
+		},
+		"Float": {
+			"selected-text-color": "#53495d",
+			"text-color": "#efe4a1"
+		},
+		"Function": {
+			"selected-text-color": "#53495d",
+			"text-color": "#2de0a7"
+		},
+		"Import": {
+			"selected-text-color": "#ff79c6",
+			"text-color": "#ff79c6"
+		},
+		"Information": {
+			"selected-text-color": "#8eaee0",
+			"text-color": "#8eaee0"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#53495d",
+			"text-color": "#7aa5ff"
+		},
+		"Normal": {
+			"selected-text-color": "#53495d",
+			"text-color": "#f1eff8"
+		},
+		"Operator": {
+			"selected-text-color": "#53495d",
+			"text-color": "#f1eff8"
+		},
+		"Others": {
+			"selected-text-color": "#53495d",
+			"text-color": "#ae81ff"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#6dfedf",
+			"text-color": "#6dfedf"
+		},
+		"RegionMarker": {
+			"background-color": "#a0a0c5",
+			"selected-text-color": "#53495d",
+			"text-color": "#53495d"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#ccccff",
+			"text-color": "#8eaee0"
+		},
+		"SpecialString": {
+			"selected-text-color": "#ff79c6",
+			"text-color": "#ff79c6"
+		},
+		"String": {
+			"selected-text-color": "#53495d",
+			"text-color": "#6dfedf"
+		},
+		"Variable": {
+			"selected-text-color": "#a0a0c5",
+			"text-color": "#a0a0c5"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#6dfedf",
+			"text-color": "#6dfedf"
+		},
+		"Warning": {
+			"selected-text-color": "#ae81ff",
+			"text-color": "#ae81ff"
+		}
+	}
+}

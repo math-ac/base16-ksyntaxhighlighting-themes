@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Bram de Haan (http://atelierbramdehaan.nl)"],
+		"name": "Base16 Atelier Heath",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#1b181b",
+		"BracketMatching": "#776977",
+		"CodeFolding": "#695d69",
+		"CurrentLine": "#292329",
+		"CurrentLineNumber": "#9e8f9e",
+		"IconBorder": "#292329",
+		"IndentationLine": "#776977",
+		"LineNumbers": "#776977",
+		"MarkBookmark": "#516aec",
+		"MarkBreakpointActive": "#ca402b",
+		"MarkBreakpointDisabled": "#7b59c0",
+		"MarkBreakpointReached": "#bb8a35",
+		"MarkError": "#ca402b",
+		"MarkExecution": "#159393",
+		"MarkWarning": "#a65926",
+		"ModifiedLines": "#a65926",
+		"ReplaceHighlight": "#918b3b",
+		"SavedLines": "#918b3b",
+		"SearchHighlight": "#bb8a35",
+		"Separator": "#776977",
+		"SpellChecking": "#ca402b",
+		"TabMarker": "#776977",
+		"TemplateBackground": "#292329",
+		"TemplateFocusedPlaceholder": "#918b3b",
+		"TemplatePlaceholder": "#918b3b",
+		"TemplateReadOnlyPlaceholder": "#ca402b",
+		"TextSelection": "#695d69",
+		"WordWrapMarker": "#776977"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#ca402b",
+			"bold": true,
+			"selected-text-color": "#f7f3f7",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#ab9bab",
+			"text-color": "#9e8f9e"
+		},
+		"Attribute": {
+			"selected-text-color": "#f7f3f7",
+			"text-color": "#516aec"
+		},
+		"BaseN": {
+			"selected-text-color": "#f7f3f7",
+			"text-color": "#a65926"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#516aec",
+			"text-color": "#516aec"
+		},
+		"Char": {
+			"selected-text-color": "#d8cad8",
+			"text-color": "#159393"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#f7f3f7",
+			"text-color": "#776977"
+		},
+		"CommentVar": {
+			"selected-text-color": "#159393",
+			"text-color": "#159393"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#a65926",
+			"text-color": "#a65926"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#f7f3f7",
+			"text-color": "#a65926"
+		},
+		"DataType": {
+			"selected-text-color": "#f7f3f7",
+			"text-color": "#bb8a35"
+		},
+		"DecVal": {
+			"selected-text-color": "#f7f3f7",
+			"text-color": "#a65926"
+		},
+		"Documentation": {
+			"selected-text-color": "#ca402b",
+			"text-color": "#ca402b"
+		},
+		"Error": {
+			"selected-text-color": "#ca402b",
+			"text-color": "#ca402b",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#516aec",
+			"text-color": "#516aec"
+		},
+		"Float": {
+			"selected-text-color": "#f7f3f7",
+			"text-color": "#a65926"
+		},
+		"Function": {
+			"selected-text-color": "#f7f3f7",
+			"text-color": "#516aec"
+		},
+		"Import": {
+			"selected-text-color": "#cc33cc",
+			"text-color": "#cc33cc"
+		},
+		"Information": {
+			"selected-text-color": "#159393",
+			"text-color": "#159393"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#f7f3f7",
+			"text-color": "#7b59c0"
+		},
+		"Normal": {
+			"selected-text-color": "#f7f3f7",
+			"text-color": "#ab9bab"
+		},
+		"Operator": {
+			"selected-text-color": "#f7f3f7",
+			"text-color": "#ab9bab"
+		},
+		"Others": {
+			"selected-text-color": "#f7f3f7",
+			"text-color": "#bb8a35"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#918b3b",
+			"text-color": "#918b3b"
+		},
+		"RegionMarker": {
+			"background-color": "#9e8f9e",
+			"selected-text-color": "#f7f3f7",
+			"text-color": "#f7f3f7"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#d8cad8",
+			"text-color": "#159393"
+		},
+		"SpecialString": {
+			"selected-text-color": "#cc33cc",
+			"text-color": "#cc33cc"
+		},
+		"String": {
+			"selected-text-color": "#f7f3f7",
+			"text-color": "#918b3b"
+		},
+		"Variable": {
+			"selected-text-color": "#ca402b",
+			"text-color": "#ca402b"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#918b3b",
+			"text-color": "#918b3b"
+		},
+		"Warning": {
+			"selected-text-color": "#bb8a35",
+			"text-color": "#bb8a35"
+		}
+	}
+}

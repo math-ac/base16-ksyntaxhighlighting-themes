@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)"],
+		"name": "Base16 PaperColor Light",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#eeeeee",
+		"BracketMatching": "#5f8700",
+		"CodeFolding": "#008700",
+		"CurrentLine": "#af0000",
+		"CurrentLineNumber": "#0087af",
+		"IconBorder": "#af0000",
+		"IndentationLine": "#5f8700",
+		"LineNumbers": "#5f8700",
+		"MarkBookmark": "#d75f00",
+		"MarkBreakpointActive": "#bcbcbc",
+		"MarkBreakpointDisabled": "#005faf",
+		"MarkBreakpointReached": "#d70087",
+		"MarkError": "#bcbcbc",
+		"MarkExecution": "#d75f00",
+		"MarkWarning": "#d70000",
+		"ModifiedLines": "#d70000",
+		"ReplaceHighlight": "#8700af",
+		"SavedLines": "#8700af",
+		"SearchHighlight": "#d70087",
+		"Separator": "#5f8700",
+		"SpellChecking": "#bcbcbc",
+		"TabMarker": "#5f8700",
+		"TemplateBackground": "#af0000",
+		"TemplateFocusedPlaceholder": "#8700af",
+		"TemplatePlaceholder": "#8700af",
+		"TemplateReadOnlyPlaceholder": "#bcbcbc",
+		"TextSelection": "#008700",
+		"WordWrapMarker": "#5f8700"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#bcbcbc",
+			"bold": true,
+			"selected-text-color": "#878787",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#444444",
+			"text-color": "#0087af"
+		},
+		"Attribute": {
+			"selected-text-color": "#878787",
+			"text-color": "#d75f00"
+		},
+		"BaseN": {
+			"selected-text-color": "#878787",
+			"text-color": "#d70000"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#d75f00",
+			"text-color": "#d75f00"
+		},
+		"Char": {
+			"selected-text-color": "#005f87",
+			"text-color": "#d75f00"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#878787",
+			"text-color": "#5f8700"
+		},
+		"CommentVar": {
+			"selected-text-color": "#d75f00",
+			"text-color": "#d75f00"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#d70000",
+			"text-color": "#d70000"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#878787",
+			"text-color": "#d70000"
+		},
+		"DataType": {
+			"selected-text-color": "#878787",
+			"text-color": "#d70087"
+		},
+		"DecVal": {
+			"selected-text-color": "#878787",
+			"text-color": "#d70000"
+		},
+		"Documentation": {
+			"selected-text-color": "#bcbcbc",
+			"text-color": "#bcbcbc"
+		},
+		"Error": {
+			"selected-text-color": "#bcbcbc",
+			"text-color": "#bcbcbc",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#d75f00",
+			"text-color": "#d75f00"
+		},
+		"Float": {
+			"selected-text-color": "#878787",
+			"text-color": "#d70000"
+		},
+		"Function": {
+			"selected-text-color": "#878787",
+			"text-color": "#d75f00"
+		},
+		"Import": {
+			"selected-text-color": "#005f87",
+			"text-color": "#005f87"
+		},
+		"Information": {
+			"selected-text-color": "#d75f00",
+			"text-color": "#d75f00"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#878787",
+			"text-color": "#005faf"
+		},
+		"Normal": {
+			"selected-text-color": "#878787",
+			"text-color": "#444444"
+		},
+		"Operator": {
+			"selected-text-color": "#878787",
+			"text-color": "#444444"
+		},
+		"Others": {
+			"selected-text-color": "#878787",
+			"text-color": "#d70087"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#8700af",
+			"text-color": "#8700af"
+		},
+		"RegionMarker": {
+			"background-color": "#0087af",
+			"selected-text-color": "#878787",
+			"text-color": "#878787"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#005f87",
+			"text-color": "#d75f00"
+		},
+		"SpecialString": {
+			"selected-text-color": "#005f87",
+			"text-color": "#005f87"
+		},
+		"String": {
+			"selected-text-color": "#878787",
+			"text-color": "#8700af"
+		},
+		"Variable": {
+			"selected-text-color": "#bcbcbc",
+			"text-color": "#bcbcbc"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#8700af",
+			"text-color": "#8700af"
+		},
+		"Warning": {
+			"selected-text-color": "#d70087",
+			"text-color": "#d70087"
+		}
+	}
+}

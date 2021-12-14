@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Jan T. Sott"],
+		"name": "Base16 London Tube",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#231f20",
+		"BracketMatching": "#737171",
+		"CodeFolding": "#5a5758",
+		"CurrentLine": "#1c3f95",
+		"CurrentLineNumber": "#959ca1",
+		"IconBorder": "#1c3f95",
+		"IndentationLine": "#737171",
+		"LineNumbers": "#737171",
+		"MarkBookmark": "#009ddc",
+		"MarkBreakpointActive": "#ee2e24",
+		"MarkBreakpointDisabled": "#98005d",
+		"MarkBreakpointReached": "#ffd204",
+		"MarkError": "#ee2e24",
+		"MarkExecution": "#85cebc",
+		"MarkWarning": "#f386a1",
+		"ModifiedLines": "#f386a1",
+		"ReplaceHighlight": "#00853e",
+		"SavedLines": "#00853e",
+		"SearchHighlight": "#ffd204",
+		"Separator": "#737171",
+		"SpellChecking": "#ee2e24",
+		"TabMarker": "#737171",
+		"TemplateBackground": "#1c3f95",
+		"TemplateFocusedPlaceholder": "#00853e",
+		"TemplatePlaceholder": "#00853e",
+		"TemplateReadOnlyPlaceholder": "#ee2e24",
+		"TextSelection": "#5a5758",
+		"WordWrapMarker": "#737171"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#ee2e24",
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#d9d8d8",
+			"text-color": "#959ca1"
+		},
+		"Attribute": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#009ddc"
+		},
+		"BaseN": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#f386a1"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#009ddc",
+			"text-color": "#009ddc"
+		},
+		"Char": {
+			"selected-text-color": "#e7e7e8",
+			"text-color": "#85cebc"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#737171"
+		},
+		"CommentVar": {
+			"selected-text-color": "#85cebc",
+			"text-color": "#85cebc"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#f386a1",
+			"text-color": "#f386a1"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#f386a1"
+		},
+		"DataType": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#ffd204"
+		},
+		"DecVal": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#f386a1"
+		},
+		"Documentation": {
+			"selected-text-color": "#ee2e24",
+			"text-color": "#ee2e24"
+		},
+		"Error": {
+			"selected-text-color": "#ee2e24",
+			"text-color": "#ee2e24",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#009ddc",
+			"text-color": "#009ddc"
+		},
+		"Float": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#f386a1"
+		},
+		"Function": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#009ddc"
+		},
+		"Import": {
+			"selected-text-color": "#b06110",
+			"text-color": "#b06110"
+		},
+		"Information": {
+			"selected-text-color": "#85cebc",
+			"text-color": "#85cebc"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#ffffff",
+			"text-color": "#98005d"
+		},
+		"Normal": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#d9d8d8"
+		},
+		"Operator": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#d9d8d8"
+		},
+		"Others": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#ffd204"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#00853e",
+			"text-color": "#00853e"
+		},
+		"RegionMarker": {
+			"background-color": "#959ca1",
+			"selected-text-color": "#ffffff",
+			"text-color": "#ffffff"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#e7e7e8",
+			"text-color": "#85cebc"
+		},
+		"SpecialString": {
+			"selected-text-color": "#b06110",
+			"text-color": "#b06110"
+		},
+		"String": {
+			"selected-text-color": "#ffffff",
+			"text-color": "#00853e"
+		},
+		"Variable": {
+			"selected-text-color": "#ee2e24",
+			"text-color": "#ee2e24"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#00853e",
+			"text-color": "#00853e"
+		},
+		"Warning": {
+			"selected-text-color": "#ffd204",
+			"text-color": "#ffd204"
+		}
+	}
+}

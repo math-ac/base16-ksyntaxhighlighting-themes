@@ -1,0 +1,172 @@
+{
+	"metadata": {
+		"copyright": ["Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)"],
+		"name": "Base16 Dracula",
+		"revision": 1
+	},
+	"editor-colors": {
+		"BackgroundColor": "#282936",
+		"BracketMatching": "#626483",
+		"CodeFolding": "#4d4f68",
+		"CurrentLine": "#3a3c4e",
+		"CurrentLineNumber": "#62d6e8",
+		"IconBorder": "#3a3c4e",
+		"IndentationLine": "#626483",
+		"LineNumbers": "#626483",
+		"MarkBookmark": "#62d6e8",
+		"MarkBreakpointActive": "#ea51b2",
+		"MarkBreakpointDisabled": "#b45bcf",
+		"MarkBreakpointReached": "#00f769",
+		"MarkError": "#ea51b2",
+		"MarkExecution": "#a1efe4",
+		"MarkWarning": "#b45bcf",
+		"ModifiedLines": "#b45bcf",
+		"ReplaceHighlight": "#ebff87",
+		"SavedLines": "#ebff87",
+		"SearchHighlight": "#00f769",
+		"Separator": "#626483",
+		"SpellChecking": "#ea51b2",
+		"TabMarker": "#626483",
+		"TemplateBackground": "#3a3c4e",
+		"TemplateFocusedPlaceholder": "#ebff87",
+		"TemplatePlaceholder": "#ebff87",
+		"TemplateReadOnlyPlaceholder": "#ea51b2",
+		"TextSelection": "#4d4f68",
+		"WordWrapMarker": "#626483"
+	},
+	"text-styles": {
+		"Alert": {
+			"background-color": "#ea51b2",
+			"bold": true,
+			"selected-text-color": "#f7f7fb",
+			"text-color": "#000000"
+		},
+		"Annotation": {
+			"selected-text-color": "#e9e9f4",
+			"text-color": "#62d6e8"
+		},
+		"Attribute": {
+			"selected-text-color": "#f7f7fb",
+			"text-color": "#62d6e8"
+		},
+		"BaseN": {
+			"selected-text-color": "#f7f7fb",
+			"text-color": "#b45bcf"
+		},
+		"BuiltIn": {
+			"selected-text-color": "#62d6e8",
+			"text-color": "#62d6e8"
+		},
+		"Char": {
+			"selected-text-color": "#f1f2f8",
+			"text-color": "#a1efe4"
+		},
+		"Comment": {
+			"italic": true,
+			"selected-text-color": "#f7f7fb",
+			"text-color": "#626483"
+		},
+		"CommentVar": {
+			"selected-text-color": "#a1efe4",
+			"text-color": "#a1efe4"
+		},
+		"Constant": {
+			"bold": true,
+			"selected-text-color": "#b45bcf",
+			"text-color": "#b45bcf"
+		},
+		"ControlFlow": {
+			"bold": true,
+			"selected-text-color": "#f7f7fb",
+			"text-color": "#b45bcf"
+		},
+		"DataType": {
+			"selected-text-color": "#f7f7fb",
+			"text-color": "#00f769"
+		},
+		"DecVal": {
+			"selected-text-color": "#f7f7fb",
+			"text-color": "#b45bcf"
+		},
+		"Documentation": {
+			"selected-text-color": "#ea51b2",
+			"text-color": "#ea51b2"
+		},
+		"Error": {
+			"selected-text-color": "#ea51b2",
+			"text-color": "#ea51b2",
+			"underline": true
+		},
+		"Extension": {
+			"bold": true,
+			"selected-text-color": "#62d6e8",
+			"text-color": "#62d6e8"
+		},
+		"Float": {
+			"selected-text-color": "#f7f7fb",
+			"text-color": "#b45bcf"
+		},
+		"Function": {
+			"selected-text-color": "#f7f7fb",
+			"text-color": "#62d6e8"
+		},
+		"Import": {
+			"selected-text-color": "#00f769",
+			"text-color": "#00f769"
+		},
+		"Information": {
+			"selected-text-color": "#a1efe4",
+			"text-color": "#a1efe4"
+		},
+		"Keyword": {
+			"bold": true,
+			"selected-text-color": "#f7f7fb",
+			"text-color": "#b45bcf"
+		},
+		"Normal": {
+			"selected-text-color": "#f7f7fb",
+			"text-color": "#e9e9f4"
+		},
+		"Operator": {
+			"selected-text-color": "#f7f7fb",
+			"text-color": "#e9e9f4"
+		},
+		"Others": {
+			"selected-text-color": "#f7f7fb",
+			"text-color": "#00f769"
+		},
+		"Preprocessor": {
+			"selected-text-color": "#ebff87",
+			"text-color": "#ebff87"
+		},
+		"RegionMarker": {
+			"background-color": "#62d6e8",
+			"selected-text-color": "#f7f7fb",
+			"text-color": "#f7f7fb"
+		},
+		"SpecialChar": {
+			"selected-text-color": "#f1f2f8",
+			"text-color": "#a1efe4"
+		},
+		"SpecialString": {
+			"selected-text-color": "#00f769",
+			"text-color": "#00f769"
+		},
+		"String": {
+			"selected-text-color": "#f7f7fb",
+			"text-color": "#ebff87"
+		},
+		"Variable": {
+			"selected-text-color": "#ea51b2",
+			"text-color": "#ea51b2"
+		},
+		"VerbatimString": {
+			"selected-text-color": "#ebff87",
+			"text-color": "#ebff87"
+		},
+		"Warning": {
+			"selected-text-color": "#00f769",
+			"text-color": "#00f769"
+		}
+	}
+}
